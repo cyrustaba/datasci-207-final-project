@@ -1,0 +1,9 @@
+librosa
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+torchvision
+shap
+jupyter
