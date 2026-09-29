@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Do not commit the data folder!
-data/
+data/local/
 
 # Distribution / packaging
 .Python
