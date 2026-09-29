@@ -26,6 +26,6 @@ uv sync
 ```
 Navigate to `notebooks/01_SetupDataFolder.ipynb` and follow instructions for getting the `/data` folder set up.
 
-The data must be downloaded from an independent github repository and places in the data folder for the setup file to run properly.
+The data must be downloaded from an independent github repository and placed in the data folder for the setup file to run properly.
 The purpose of this is to have the data stored locally on each machine, rather than in the github repository because of storage constraints
 
