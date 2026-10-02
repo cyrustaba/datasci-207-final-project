@@ -1,0 +1,801 @@
+track_id,genre,genre_id,mel_path,artist_id,artist_name,album_id,album_title,loaded_duration_seconds
+182,Rock,7,../data/local/processed_mel/000182.npy,64,Ariel Pink's Haunted Graffiti,80,Worn Copy,30.002721088435376
+704,International,5,../data/local/processed_mel/000704.npy,140,Fósforo,199,Macondo,29.976598639455784
+705,International,5,../data/local/processed_mel/000705.npy,140,Fósforo,199,Macondo,29.976598639455784
+706,International,5,../data/local/processed_mel/000706.npy,140,Fósforo,199,Macondo,30.002721088435376
+707,International,5,../data/local/processed_mel/000707.npy,140,Fósforo,199,Macondo,29.976598639455784
+708,International,5,../data/local/processed_mel/000708.npy,140,Fósforo,199,Macondo,29.976598639455784
+709,International,5,../data/local/processed_mel/000709.npy,140,Fósforo,199,Macondo,30.002721088435376
+890,Folk,2,../data/local/processed_mel/000890.npy,168,Ilyas Ahmed,245,Century of Moonlight,29.976598639455784
+892,Folk,2,../data/local/processed_mel/000892.npy,168,Ilyas Ahmed,246,The Vertigo of Dawn,29.976598639455784
+1066,Experimental,1,../data/local/processed_mel/001066.npy,10,Lucky Dragons,290,Norteñas,30.002721088435376
+1069,Experimental,1,../data/local/processed_mel/001069.npy,10,Lucky Dragons,290,Norteñas,29.976598639455784
+1073,Experimental,1,../data/local/processed_mel/001073.npy,10,Lucky Dragons,290,Norteñas,30.002721088435376
+1075,Experimental,1,../data/local/processed_mel/001075.npy,10,Lucky Dragons,290,Norteñas,29.976598639455784
+1249,Experimental,1,../data/local/processed_mel/001249.npy,163,Nautical Almanac,332,Handcut Record Transfers,29.976598639455784
+1259,Experimental,1,../data/local/processed_mel/001259.npy,163,Nautical Almanac,330,Cover The Earth,29.976598639455784
+3624,Rock,7,../data/local/processed_mel/003624.npy,728,Fallen Leaves,964,Live at WFMU on Evan Davies's Show on 9/16/2008,30.002721088435376
+4108,Rock,7,../data/local/processed_mel/004108.npy,1152,Psychedelic Horseshit,831,Live at WFMU on Brian Turner's Show on 12/18/2007,29.976598639455784
+7373,Experimental,1,../data/local/processed_mel/007373.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+7374,Experimental,1,../data/local/processed_mel/007374.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+7375,Experimental,1,../data/local/processed_mel/007375.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+7376,Experimental,1,../data/local/processed_mel/007376.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+7377,Experimental,1,../data/local/processed_mel/007377.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+7378,Experimental,1,../data/local/processed_mel/007378.npy,10,Lucky Dragons,1685,Dark Falcon,30.002721088435376
+7379,Experimental,1,../data/local/processed_mel/007379.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+7381,Experimental,1,../data/local/processed_mel/007381.npy,10,Lucky Dragons,1685,Dark Falcon,30.002721088435376
+7383,Experimental,1,../data/local/processed_mel/007383.npy,10,Lucky Dragons,1685,Dark Falcon,30.002721088435376
+7385,Experimental,1,../data/local/processed_mel/007385.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+7386,Experimental,1,../data/local/processed_mel/007386.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+7388,Experimental,1,../data/local/processed_mel/007388.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+7391,Experimental,1,../data/local/processed_mel/007391.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+7393,Experimental,1,../data/local/processed_mel/007393.npy,10,Lucky Dragons,1685,Dark Falcon,29.976598639455784
+9155,Experimental,1,../data/local/processed_mel/009155.npy,2244,Peeled Hearts Paste,2280,Plover Brand,30.002721088435376
+10250,Instrumental,4,../data/local/processed_mel/010250.npy,42,JayDee,2524,Free Matter for the Blind Volume 6: Mysterious Worldz (Light Side),29.976598639455784
+10381,Folk,2,../data/local/processed_mel/010381.npy,77,Big Blood,2547,Big Blood & The Bleedin' Hearts,29.976598639455784
+10382,Folk,2,../data/local/processed_mel/010382.npy,77,Big Blood,2547,Big Blood & The Bleedin' Hearts,29.976598639455784
+10383,Folk,2,../data/local/processed_mel/010383.npy,77,Big Blood,2547,Big Blood & The Bleedin' Hearts,29.976598639455784
+10384,Folk,2,../data/local/processed_mel/010384.npy,77,Big Blood,2547,Big Blood & The Bleedin' Hearts,30.002721088435376
+10385,Folk,2,../data/local/processed_mel/010385.npy,77,Big Blood,2547,Big Blood & The Bleedin' Hearts,30.002721088435376
+10386,Folk,2,../data/local/processed_mel/010386.npy,77,Big Blood,2547,Big Blood & The Bleedin' Hearts,30.002721088435376
+10387,Folk,2,../data/local/processed_mel/010387.npy,77,Big Blood,2547,Big Blood & The Bleedin' Hearts,30.002721088435376
+10388,Folk,2,../data/local/processed_mel/010388.npy,77,Big Blood,2547,Big Blood & The Bleedin' Hearts,29.976598639455784
+10389,Folk,2,../data/local/processed_mel/010389.npy,77,Big Blood,2547,Big Blood & The Bleedin' Hearts,30.002721088435376
+10438,Folk,2,../data/local/processed_mel/010438.npy,77,Big Blood,2583,The Grove,30.002721088435376
+10439,Folk,2,../data/local/processed_mel/010439.npy,77,Big Blood,2583,The Grove,29.976598639455784
+10440,Folk,2,../data/local/processed_mel/010440.npy,77,Big Blood,2583,The Grove,29.976598639455784
+10441,Folk,2,../data/local/processed_mel/010441.npy,77,Big Blood,2583,The Grove,30.002721088435376
+10442,Folk,2,../data/local/processed_mel/010442.npy,77,Big Blood,2583,The Grove,30.002721088435376
+10443,Folk,2,../data/local/processed_mel/010443.npy,77,Big Blood,2583,The Grove,30.002721088435376
+10444,Folk,2,../data/local/processed_mel/010444.npy,77,Big Blood,2583,The Grove,30.002721088435376
+10447,Folk,2,../data/local/processed_mel/010447.npy,77,Big Blood,2583,The Grove,29.976598639455784
+10480,Folk,2,../data/local/processed_mel/010480.npy,77,Big Blood,2587,Sew Your Wild Days Tour Vol. 1,29.976598639455784
+10481,Folk,2,../data/local/processed_mel/010481.npy,77,Big Blood,2587,Sew Your Wild Days Tour Vol. 1,29.976598639455784
+10485,Folk,2,../data/local/processed_mel/010485.npy,77,Big Blood,2587,Sew Your Wild Days Tour Vol. 1,29.976598639455784
+10678,Folk,2,../data/local/processed_mel/010678.npy,77,Big Blood,2641,"Space Gallery Jan. 27, 2007 Sahara Club Jan. 28, 2007",30.002721088435376
+10679,Folk,2,../data/local/processed_mel/010679.npy,77,Big Blood,2641,"Space Gallery Jan. 27, 2007 Sahara Club Jan. 28, 2007",30.002721088435376
+10682,Folk,2,../data/local/processed_mel/010682.npy,77,Big Blood,2641,"Space Gallery Jan. 27, 2007 Sahara Club Jan. 28, 2007",30.002721088435376
+10684,Folk,2,../data/local/processed_mel/010684.npy,77,Big Blood,2641,"Space Gallery Jan. 27, 2007 Sahara Club Jan. 28, 2007",30.002721088435376
+10992,Folk,2,../data/local/processed_mel/010992.npy,77,Big Blood,2583,The Grove,30.002721088435376
+10993,Folk,2,../data/local/processed_mel/010993.npy,77,Big Blood,2547,Big Blood & The Bleedin' Hearts,30.002721088435376
+11019,Experimental,1,../data/local/processed_mel/011019.npy,10,Lucky Dragons,291,Dream Island Laughing Language,29.976598639455784
+11020,Experimental,1,../data/local/processed_mel/011020.npy,10,Lucky Dragons,291,Dream Island Laughing Language,29.976598639455784
+11059,Folk,2,../data/local/processed_mel/011059.npy,77,Big Blood,2587,Sew Your Wild Days Tour Vol. 1,30.002721088435376
+11200,Pop,6,../data/local/processed_mel/011200.npy,2881,March Rosetta,2749,netBloc Vol. 20: music to accompany the world traveller,30.002721088435376
+11204,Hip-Hop,3,../data/local/processed_mel/011204.npy,2886,Audible Intelligence,2749,netBloc Vol. 20: music to accompany the world traveller,29.976598639455784
+11503,Folk,2,../data/local/processed_mel/011503.npy,77,Big Blood,2823,Strange Maine 11.04.06,30.002721088435376
+11504,Folk,2,../data/local/processed_mel/011504.npy,77,Big Blood,2823,Strange Maine 11.04.06,29.976598639455784
+11505,Folk,2,../data/local/processed_mel/011505.npy,77,Big Blood,2823,Strange Maine 11.04.06,29.976598639455784
+11508,Folk,2,../data/local/processed_mel/011508.npy,77,Big Blood,2823,Strange Maine 11.04.06,29.976598639455784
+12045,Folk,2,../data/local/processed_mel/012045.npy,77,Big Blood,2930,Already Gone I,30.002721088435376
+12046,Folk,2,../data/local/processed_mel/012046.npy,77,Big Blood,2930,Already Gone I,29.976598639455784
+12047,Folk,2,../data/local/processed_mel/012047.npy,77,Big Blood,2930,Already Gone I,30.002721088435376
+12048,Folk,2,../data/local/processed_mel/012048.npy,77,Big Blood,2930,Already Gone I,30.002721088435376
+12049,Folk,2,../data/local/processed_mel/012049.npy,77,Big Blood,2930,Already Gone I,30.002721088435376
+12050,Folk,2,../data/local/processed_mel/012050.npy,77,Big Blood,2930,Already Gone I,30.002721088435376
+12051,Folk,2,../data/local/processed_mel/012051.npy,77,Big Blood,2930,Already Gone I,30.002721088435376
+12052,Folk,2,../data/local/processed_mel/012052.npy,77,Big Blood,2930,Already Gone I,29.976598639455784
+12053,Folk,2,../data/local/processed_mel/012053.npy,77,Big Blood,2930,Already Gone I,29.976598639455784
+12058,Folk,2,../data/local/processed_mel/012058.npy,77,Big Blood,2931,Already Gone II,29.976598639455784
+12059,Folk,2,../data/local/processed_mel/012059.npy,77,Big Blood,2931,Already Gone II,29.976598639455784
+12060,Folk,2,../data/local/processed_mel/012060.npy,77,Big Blood,2931,Already Gone II,30.002721088435376
+12061,Folk,2,../data/local/processed_mel/012061.npy,77,Big Blood,2931,Already Gone II,30.002721088435376
+12062,Folk,2,../data/local/processed_mel/012062.npy,77,Big Blood,2931,Already Gone II,29.976598639455784
+12064,Folk,2,../data/local/processed_mel/012064.npy,77,Big Blood,2931,Already Gone II,29.976598639455784
+12065,Folk,2,../data/local/processed_mel/012065.npy,77,Big Blood,2931,Already Gone II,30.002721088435376
+12066,Folk,2,../data/local/processed_mel/012066.npy,77,Big Blood,2931,Already Gone II,29.976598639455784
+12067,Folk,2,../data/local/processed_mel/012067.npy,77,Big Blood,2931,Already Gone II,29.976598639455784
+12179,Pop,6,../data/local/processed_mel/012179.npy,3222,Garmisch,2964,netBloc Vol. 19: Doctorin’ Ur Tastz,30.002721088435376
+12387,Pop,6,../data/local/processed_mel/012387.npy,3343,Norton,2991,netBloc Vol. 15: this album won't eat your gas money,30.002721088435376
+12390,Pop,6,../data/local/processed_mel/012390.npy,3346,Pipo Pegoraro,2991,netBloc Vol. 15: this album won't eat your gas money,30.002721088435376
+12481,Folk,2,../data/local/processed_mel/012481.npy,77,Big Blood,3007,Sew Your Wild Days Tour Vol. II,30.002721088435376
+12482,Folk,2,../data/local/processed_mel/012482.npy,77,Big Blood,3007,Sew Your Wild Days Tour Vol. II,30.002721088435376
+12484,Folk,2,../data/local/processed_mel/012484.npy,77,Big Blood,3007,Sew Your Wild Days Tour Vol. II,29.976598639455784
+12485,Folk,2,../data/local/processed_mel/012485.npy,77,Big Blood,3007,Sew Your Wild Days Tour Vol. II,29.976598639455784
+12486,Folk,2,../data/local/processed_mel/012486.npy,77,Big Blood,3007,Sew Your Wild Days Tour Vol. II,29.976598639455784
+12487,Folk,2,../data/local/processed_mel/012487.npy,77,Big Blood,3007,Sew Your Wild Days Tour Vol. II,30.002721088435376
+12488,Folk,2,../data/local/processed_mel/012488.npy,77,Big Blood,3007,Sew Your Wild Days Tour Vol. II,29.976598639455784
+12489,Folk,2,../data/local/processed_mel/012489.npy,77,Big Blood,3007,Sew Your Wild Days Tour Vol. II,29.976598639455784
+12490,Folk,2,../data/local/processed_mel/012490.npy,77,Big Blood,3007,Sew Your Wild Days Tour Vol. II,29.976598639455784
+12508,Folk,2,../data/local/processed_mel/012508.npy,77,Big Blood,3009,Strange Maine 1.20.07,29.976598639455784
+12513,Folk,2,../data/local/processed_mel/012513.npy,77,Big Blood,3009,Strange Maine 1.20.07,30.002721088435376
+12514,Folk,2,../data/local/processed_mel/012514.npy,77,Big Blood,3009,Strange Maine 1.20.07,29.976598639455784
+12518,Pop,6,../data/local/processed_mel/012518.npy,3346,Pipo Pegoraro,3010,netBloc Vol. 14: Kills 99.9% of Bacterium Poppus Radiolus!,29.976598639455784
+12521,Rock,7,../data/local/processed_mel/012521.npy,3227,Brad Sucks,3010,netBloc Vol. 14: Kills 99.9% of Bacterium Poppus Radiolus!,30.002721088435376
+12690,International,5,../data/local/processed_mel/012690.npy,3420,Bo Marley + Disrupt + Volfoniq,3054,Jam'in Sauce [LCL08],30.002721088435376
+12691,International,5,../data/local/processed_mel/012691.npy,3420,Bo Marley + Disrupt + Volfoniq,3054,Jam'in Sauce [LCL08],30.002721088435376
+12692,International,5,../data/local/processed_mel/012692.npy,3420,Bo Marley + Disrupt + Volfoniq,3054,Jam'in Sauce [LCL08],30.002721088435376
+13328,Pop,6,../data/local/processed_mel/013328.npy,3635,Morad Stars,3170,netBloc Vol. 08: I Copyleft!,29.976598639455784
+13578,Experimental,1,../data/local/processed_mel/013578.npy,1783,Big City Orchestra,3196,Submission Trax,30.002721088435376
+13666,Rock,7,../data/local/processed_mel/013666.npy,3736,M.A.Z.C.A.,3221,netBloc Vol. 01: The Opening Salvo,29.976598639455784
+13706,Electronic,0,../data/local/processed_mel/013706.npy,3766,Goto80,3224,Updown,29.976598639455784
+13707,Electronic,0,../data/local/processed_mel/013707.npy,3766,Goto80,3224,Updown,30.002721088435376
+13708,Electronic,0,../data/local/processed_mel/013708.npy,3766,Goto80,3224,Updown,29.976598639455784
+13709,Electronic,0,../data/local/processed_mel/013709.npy,3766,Goto80,3224,Updown,29.976598639455784
+13710,Electronic,0,../data/local/processed_mel/013710.npy,3766,Goto80,3224,Updown,30.002721088435376
+13711,Electronic,0,../data/local/processed_mel/013711.npy,3766,Goto80,3224,Updown,29.976598639455784
+14601,International,5,../data/local/processed_mel/014601.npy,4053,Brahim Fribgane,3376,"Live at WFMU's Transpacific Sound Paradise, 6/6/2009",30.002721088435376
+14602,International,5,../data/local/processed_mel/014602.npy,4053,Brahim Fribgane,3376,"Live at WFMU's Transpacific Sound Paradise, 6/6/2009",29.976598639455784
+14603,International,5,../data/local/processed_mel/014603.npy,4053,Brahim Fribgane,3376,"Live at WFMU's Transpacific Sound Paradise, 6/6/2009",29.976598639455784
+14604,International,5,../data/local/processed_mel/014604.npy,4053,Brahim Fribgane,3376,"Live at WFMU's Transpacific Sound Paradise, 6/6/2009",29.976598639455784
+14653,Rock,7,../data/local/processed_mel/014653.npy,3227,Brad Sucks,3406,Out Of It,29.976598639455784
+14663,Pop,6,../data/local/processed_mel/014663.npy,4072,Coleco Music,3415,Confessions in a Chatroom,29.976598639455784
+14690,Experimental,1,../data/local/processed_mel/014690.npy,10,Lucky Dragons,291,Dream Island Laughing Language,30.002721088435376
+14733,Rock,7,../data/local/processed_mel/014733.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",30.002721088435376
+14734,Rock,7,../data/local/processed_mel/014734.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",30.002721088435376
+14735,Rock,7,../data/local/processed_mel/014735.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",30.002721088435376
+14736,Rock,7,../data/local/processed_mel/014736.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",30.002721088435376
+14737,Rock,7,../data/local/processed_mel/014737.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",29.976598639455784
+14738,Rock,7,../data/local/processed_mel/014738.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",29.976598639455784
+14739,Rock,7,../data/local/processed_mel/014739.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",30.002721088435376
+14740,Rock,7,../data/local/processed_mel/014740.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",30.002721088435376
+14741,Rock,7,../data/local/processed_mel/014741.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",30.002721088435376
+14742,Rock,7,../data/local/processed_mel/014742.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",29.976598639455784
+14743,Rock,7,../data/local/processed_mel/014743.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",29.976598639455784
+14744,Rock,7,../data/local/processed_mel/014744.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",30.002721088435376
+14745,Rock,7,../data/local/processed_mel/014745.npy,4120,Throwing Muses,3430,"Live at Primavera Sound, Barcelona 5/29/09",29.976598639455784
+15094,Experimental,1,../data/local/processed_mel/015094.npy,4193,guitarrorisms,3502,recordings without the frogs from the pond,29.988979591836735
+16337,Pop,6,../data/local/processed_mel/016337.npy,1762,Twizzle,1888,Soda Fountain,29.976598639455784
+16338,Pop,6,../data/local/processed_mel/016338.npy,1762,Twizzle,1888,Soda Fountain,30.002721088435376
+16339,Pop,6,../data/local/processed_mel/016339.npy,1762,Twizzle,1888,Soda Fountain,29.976598639455784
+16340,Pop,6,../data/local/processed_mel/016340.npy,1762,Twizzle,1888,Soda Fountain,30.002721088435376
+16994,Rock,7,../data/local/processed_mel/016994.npy,4656,Tusk Lord,3865,Christmas 2008,29.976598639455784
+16995,Rock,7,../data/local/processed_mel/016995.npy,4656,Tusk Lord,3865,Christmas 2008,29.976598639455784
+16997,Rock,7,../data/local/processed_mel/016997.npy,4656,Tusk Lord,3865,Christmas 2008,29.976598639455784
+18112,Experimental,1,../data/local/processed_mel/018112.npy,1464,Sikhara,4151,Bardos State,29.976598639455784
+18350,Folk,2,../data/local/processed_mel/018350.npy,1010,Josh Mease,4193,Live at WFMU on Irene Trudel's show 8/24/2009,29.976598639455784
+19439,Hip-Hop,3,../data/local/processed_mel/019439.npy,5207,Sleaze,4412,netBloc Vol. 24: tiuqottigeloot,29.976598639455784
+19685,Rock,7,../data/local/processed_mel/019685.npy,1110,Paik,4482,Monster of the Absolute,29.976598639455784
+20296,Experimental,1,../data/local/processed_mel/020296.npy,1464,Sikhara,4570,Sikhara Live on KBOO's Sounds Unsound,29.976598639455784
+20667,Electronic,0,../data/local/processed_mel/020667.npy,5467,Vim,4634,A Random Collection Of Consonants,29.976598639455784
+21995,Pop,6,../data/local/processed_mel/021995.npy,5828,Katapulto,4869,Purity and Danger,29.976598639455784
+21996,Pop,6,../data/local/processed_mel/021996.npy,5828,Katapulto,4869,Purity and Danger,29.976598639455784
+21997,Pop,6,../data/local/processed_mel/021997.npy,5828,Katapulto,4869,Purity and Danger,29.976598639455784
+21998,Pop,6,../data/local/processed_mel/021998.npy,5828,Katapulto,4869,Purity and Danger,30.002721088435376
+21999,Pop,6,../data/local/processed_mel/021999.npy,5828,Katapulto,4869,Purity and Danger,29.976598639455784
+22000,Pop,6,../data/local/processed_mel/022000.npy,5828,Katapulto,4869,Purity and Danger,29.976598639455784
+22001,Pop,6,../data/local/processed_mel/022001.npy,5828,Katapulto,4869,Purity and Danger,30.002721088435376
+23010,Electronic,0,../data/local/processed_mel/023010.npy,6032,Monopole,5031,Silent movie surround sound,29.976598639455784
+23041,Rock,7,../data/local/processed_mel/023041.npy,4449,Stromble Fix,5046,netBloc Vol. 26: N.E.T.A.U.D.I.O.,30.002721088435376
+23063,Experimental,1,../data/local/processed_mel/023063.npy,6054,adcBicycle,5057,EP,30.002721088435376
+23862,Electronic,0,../data/local/processed_mel/023862.npy,3766,Goto80,5191,Digi-Dig,30.002721088435376
+25055,Pop,6,../data/local/processed_mel/025055.npy,6440,Ghosts and Strings,5485,Canciones del Futuro,30.002721088435376
+26859,Electronic,0,../data/local/processed_mel/026859.npy,6809,"I, Cactus",5823,"I, Cactus",30.002721088435376
+26861,Electronic,0,../data/local/processed_mel/026861.npy,6809,"I, Cactus",5823,"I, Cactus",30.002721088435376
+26902,Electronic,0,../data/local/processed_mel/026902.npy,3766,Goto80,5826,6,29.976598639455784
+26904,Electronic,0,../data/local/processed_mel/026904.npy,3766,Goto80,5826,6,30.002721088435376
+26905,Electronic,0,../data/local/processed_mel/026905.npy,3766,Goto80,6,Constant Hitmaker,29.976598639455784
+26906,Electronic,0,../data/local/processed_mel/026906.npy,3766,Goto80,5826,6,29.976598639455784
+28070,Rock,7,../data/local/processed_mel/028070.npy,7073,Bare Wires,6081,"Live at WFMU on the Evan ""Funk"" Davies show, April 6 2010",29.976598639455784
+28072,Rock,7,../data/local/processed_mel/028072.npy,7073,Bare Wires,6081,"Live at WFMU on the Evan ""Funk"" Davies show, April 6 2010",30.002721088435376
+28179,Electronic,0,../data/local/processed_mel/028179.npy,7082,I.D. & Baobinga,6088,Bass Music Sessions,30.002721088435376
+28266,Rock,7,../data/local/processed_mel/028266.npy,1655,Lame Drivers,6098,Various Deficiencies Vol. 1,29.976598639455784
+28692,Rock,7,../data/local/processed_mel/028692.npy,6978,The Black Bug,6181,I Don't Like You 7'',30.002721088435376
+28802,Pop,6,../data/local/processed_mel/028802.npy,7217,Grave Babies,6204,Death Face,30.002721088435376
+29351,International,5,../data/local/processed_mel/029351.npy,7326,danzante de tijeras,6274,Ulqutushuy,29.990702947845804
+30316,Experimental,1,../data/local/processed_mel/030316.npy,7518,Wm. Burke's Hideous Truth,6421,This Strange Little Cricket,30.002721088435376
+32435,Electronic,0,../data/local/processed_mel/032435.npy,7972,Go Gadget,6758,Micro Invasion - East Jakarta Chiptunes Compilation,29.976598639455784
+33992,Rock,7,../data/local/processed_mel/033992.npy,8391,The Pleasure Kills,7074,Live at WFMU on Evan Funk Davies' show 8/4/2010,30.002721088435376
+35182,Pop,6,../data/local/processed_mel/035182.npy,3222,Garmisch,7235,Glimmer,29.976598639455784
+35184,Pop,6,../data/local/processed_mel/035184.npy,3222,Garmisch,7235,Glimmer,29.976598639455784
+35198,Experimental,1,../data/local/processed_mel/035198.npy,7413,Olelé Brut,7237,El Egg Album,30.002721088435376
+35199,Experimental,1,../data/local/processed_mel/035199.npy,7413,Olelé Brut,7237,El Egg Album,30.002721088435376
+35204,Experimental,1,../data/local/processed_mel/035204.npy,7413,Olelé Brut,7237,El Egg Album,29.976598639455784
+35544,Pop,6,../data/local/processed_mel/035544.npy,3222,Garmisch,7320,Garmisch,29.976598639455784
+35545,Pop,6,../data/local/processed_mel/035545.npy,3222,Garmisch,7320,Garmisch,30.002721088435376
+35549,Pop,6,../data/local/processed_mel/035549.npy,3222,Garmisch,7320,Garmisch,30.002721088435376
+35550,Pop,6,../data/local/processed_mel/035550.npy,3222,Garmisch,7320,Garmisch,29.976598639455784
+35569,Electronic,0,../data/local/processed_mel/035569.npy,8616,Ion (Romania),7323,Schutzhaft* [LCL03],30.002721088435376
+35608,Pop,6,../data/local/processed_mel/035608.npy,8619,Stan,7329,Sunday Brunch With Stan,30.002721088435376
+36096,Electronic,0,../data/local/processed_mel/036096.npy,5978,Exteenager,7379,split ep with Rappeur Qualité Prix,30.002721088435376
+36097,Electronic,0,../data/local/processed_mel/036097.npy,5978,Exteenager,7379,split ep with Rappeur Qualité Prix,29.976598639455784
+36099,Electronic,0,../data/local/processed_mel/036099.npy,5978,Exteenager,7379,split ep with Rappeur Qualité Prix,29.976598639455784
+36302,Hip-Hop,3,../data/local/processed_mel/036302.npy,8693,Asthmatic Astronaut,7415,Inbetween EP,29.976598639455784
+36799,Experimental,1,../data/local/processed_mel/036799.npy,8784,Rully Shabara & Wukir,7478,Senyawa,30.002721088435376
+36959,Pop,6,../data/local/processed_mel/036959.npy,3222,Garmisch,7491,Facing the Sea,29.976598639455784
+36961,Pop,6,../data/local/processed_mel/036961.npy,3222,Garmisch,7491,Facing the Sea,29.976598639455784
+36965,Pop,6,../data/local/processed_mel/036965.npy,3222,Garmisch,7491,Facing the Sea,30.002721088435376
+36966,Pop,6,../data/local/processed_mel/036966.npy,3222,Garmisch,7491,Facing the Sea,29.976598639455784
+36998,Electronic,0,../data/local/processed_mel/036998.npy,5978,Exteenager,7379,split ep with Rappeur Qualité Prix,30.002721088435376
+38775,International,5,../data/local/processed_mel/038775.npy,9237,Sláinte,7753,Sláinte,29.976598639455784
+38776,International,5,../data/local/processed_mel/038776.npy,9237,Sláinte,7753,Sláinte,30.002721088435376
+38777,International,5,../data/local/processed_mel/038777.npy,9237,Sláinte,7753,Sláinte,30.002721088435376
+38778,International,5,../data/local/processed_mel/038778.npy,9237,Sláinte,7753,Sláinte,30.002721088435376
+38779,International,5,../data/local/processed_mel/038779.npy,9237,Sláinte,7753,Sláinte,29.976598639455784
+38780,International,5,../data/local/processed_mel/038780.npy,9237,Sláinte,7753,Sláinte,30.002721088435376
+38781,International,5,../data/local/processed_mel/038781.npy,9237,Sláinte,7753,Sláinte,30.002721088435376
+38782,International,5,../data/local/processed_mel/038782.npy,9237,Sláinte,7753,Sláinte,29.976598639455784
+38783,International,5,../data/local/processed_mel/038783.npy,9237,Sláinte,7753,Sláinte,30.002721088435376
+38784,International,5,../data/local/processed_mel/038784.npy,9237,Sláinte,7753,Sláinte,29.976598639455784
+38785,International,5,../data/local/processed_mel/038785.npy,9237,Sláinte,7753,Sláinte,30.002721088435376
+38817,International,5,../data/local/processed_mel/038817.npy,9237,Sláinte,7757,Cup of Tea,30.002721088435376
+38818,International,5,../data/local/processed_mel/038818.npy,9237,Sláinte,7757,Cup of Tea,30.002721088435376
+38819,International,5,../data/local/processed_mel/038819.npy,9237,Sláinte,7757,Cup of Tea,30.002721088435376
+38820,International,5,../data/local/processed_mel/038820.npy,9237,Sláinte,7757,Cup of Tea,30.002721088435376
+38821,International,5,../data/local/processed_mel/038821.npy,9237,Sláinte,7757,Cup of Tea,29.976598639455784
+38822,International,5,../data/local/processed_mel/038822.npy,9237,Sláinte,7757,Cup of Tea,30.002721088435376
+38823,International,5,../data/local/processed_mel/038823.npy,9237,Sláinte,7757,Cup of Tea,29.976598639455784
+38824,International,5,../data/local/processed_mel/038824.npy,9237,Sláinte,7757,Cup of Tea,30.002721088435376
+38825,International,5,../data/local/processed_mel/038825.npy,9237,Sláinte,7757,Cup of Tea,29.976598639455784
+38826,International,5,../data/local/processed_mel/038826.npy,9237,Sláinte,7757,Cup of Tea,29.976598639455784
+38827,International,5,../data/local/processed_mel/038827.npy,9237,Sláinte,7757,Cup of Tea,30.002721088435376
+38828,International,5,../data/local/processed_mel/038828.npy,9237,Sláinte,7757,Cup of Tea,29.976598639455784
+38829,International,5,../data/local/processed_mel/038829.npy,9237,Sláinte,7757,Cup of Tea,29.976598639455784
+38830,International,5,../data/local/processed_mel/038830.npy,9237,Sláinte,7757,Cup of Tea,30.002721088435376
+38833,International,5,../data/local/processed_mel/038833.npy,9237,Sláinte,7758,Sláinte Mohr,30.002721088435376
+38834,International,5,../data/local/processed_mel/038834.npy,9237,Sláinte,7758,Sláinte Mohr,30.002721088435376
+39316,Experimental,1,../data/local/processed_mel/039316.npy,9336,John Badger & The Moustache Riders of Doom,7829,Saint Carbonarius Speaks,30.002721088435376
+39317,Experimental,1,../data/local/processed_mel/039317.npy,9336,John Badger & The Moustache Riders of Doom,7829,Saint Carbonarius Speaks,29.976598639455784
+39318,Experimental,1,../data/local/processed_mel/039318.npy,9336,John Badger & The Moustache Riders of Doom,7829,Saint Carbonarius Speaks,30.002721088435376
+39605,Electronic,0,../data/local/processed_mel/039605.npy,9403,UltraCat,7879,Disco High,29.976598639455784
+39607,Electronic,0,../data/local/processed_mel/039607.npy,9403,UltraCat,7879,Disco High,29.976598639455784
+40229,Folk,2,../data/local/processed_mel/040229.npy,77,Big Blood,7979,Operators & Things,30.002721088435376
+40230,Folk,2,../data/local/processed_mel/040230.npy,77,Big Blood,7979,Operators & Things,29.976598639455784
+40231,Folk,2,../data/local/processed_mel/040231.npy,77,Big Blood,7979,Operators & Things,29.976598639455784
+40232,Folk,2,../data/local/processed_mel/040232.npy,77,Big Blood,7979,Operators & Things,29.976598639455784
+40233,Folk,2,../data/local/processed_mel/040233.npy,77,Big Blood,7979,Operators & Things,30.002721088435376
+40234,Folk,2,../data/local/processed_mel/040234.npy,77,Big Blood,7980,Dark Country Magic,30.002721088435376
+40235,Folk,2,../data/local/processed_mel/040235.npy,77,Big Blood,7980,Dark Country Magic,30.002721088435376
+40236,Folk,2,../data/local/processed_mel/040236.npy,77,Big Blood,7980,Dark Country Magic,30.002721088435376
+40237,Folk,2,../data/local/processed_mel/040237.npy,77,Big Blood,7980,Dark Country Magic,30.002721088435376
+40238,Folk,2,../data/local/processed_mel/040238.npy,77,Big Blood,7980,Dark Country Magic,30.002721088435376
+40239,Folk,2,../data/local/processed_mel/040239.npy,77,Big Blood,7980,Dark Country Magic,29.976598639455784
+40240,Folk,2,../data/local/processed_mel/040240.npy,77,Big Blood,7980,Dark Country Magic,29.976598639455784
+40241,Folk,2,../data/local/processed_mel/040241.npy,77,Big Blood,7980,Dark Country Magic,30.002721088435376
+40242,Folk,2,../data/local/processed_mel/040242.npy,77,Big Blood,7980,Dark Country Magic,29.976598639455784
+40243,Folk,2,../data/local/processed_mel/040243.npy,77,Big Blood,7980,Dark Country Magic,29.976598639455784
+40244,Folk,2,../data/local/processed_mel/040244.npy,77,Big Blood,7980,Dark Country Magic,30.002721088435376
+40245,Folk,2,../data/local/processed_mel/040245.npy,77,Big Blood,7980,Dark Country Magic,29.976598639455784
+40844,Electronic,0,../data/local/processed_mel/040844.npy,9527,Raw Stiles,8088,Fantastique [STOP 2X2 #04],30.002721088435376
+40845,Electronic,0,../data/local/processed_mel/040845.npy,9527,Raw Stiles,8088,Fantastique [STOP 2X2 #04],29.976598639455784
+41019,International,5,../data/local/processed_mel/041019.npy,9628,Bankil,8122,Money No Mystic [LCL23],29.976598639455784
+41310,Folk,2,../data/local/processed_mel/041310.npy,9744,Funny Cry Happy,8170,"On A Clear Night, You Can Smell For Miles",30.002721088435376
+42018,Electronic,0,../data/local/processed_mel/042018.npy,9933,Electronischebasisgeluide,8263,La Boite A Sons - Contest Contributions,29.976598639455784
+42040,Hip-Hop,3,../data/local/processed_mel/042040.npy,6441,Coolzey,8258,"netBloc Vol. 31: Goodbye, Hello",29.976598639455784
+42129,Experimental,1,../data/local/processed_mel/042129.npy,9957,Colin Shaddick & Roger Nicholls,8267,Radiate Joy,29.976598639455784
+42135,Experimental,1,../data/local/processed_mel/042135.npy,9957,Colin Shaddick & Roger Nicholls,8267,Radiate Joy,29.976598639455784
+42138,Experimental,1,../data/local/processed_mel/042138.npy,9957,Colin Shaddick & Roger Nicholls,8267,Radiate Joy,29.976598639455784
+42139,Experimental,1,../data/local/processed_mel/042139.npy,9957,Colin Shaddick & Roger Nicholls,8267,Radiate Joy,29.976598639455784
+42141,Experimental,1,../data/local/processed_mel/042141.npy,9957,Colin Shaddick & Roger Nicholls,8267,Radiate Joy,29.976598639455784
+42146,Experimental,1,../data/local/processed_mel/042146.npy,9957,Colin Shaddick & Roger Nicholls,8267,Radiate Joy,30.002721088435376
+42372,Electronic,0,../data/local/processed_mel/042372.npy,9067,Broke For Free,8295,Directionless EP,30.002721088435376
+42373,Electronic,0,../data/local/processed_mel/042373.npy,9067,Broke For Free,8295,Directionless EP,30.002721088435376
+42374,Electronic,0,../data/local/processed_mel/042374.npy,9067,Broke For Free,8295,Directionless EP,29.976598639455784
+42375,Electronic,0,../data/local/processed_mel/042375.npy,9067,Broke For Free,8295,Directionless EP,30.002721088435376
+42376,Electronic,0,../data/local/processed_mel/042376.npy,9067,Broke For Free,8295,Directionless EP,29.976598639455784
+42377,Electronic,0,../data/local/processed_mel/042377.npy,9067,Broke For Free,8295,Directionless EP,29.976598639455784
+42463,Folk,2,../data/local/processed_mel/042463.npy,9990,Yves Rakotomalala,8315,Ce matin encore,29.976598639455784
+43516,International,5,../data/local/processed_mel/043516.npy,10174,Eastern Watershed Klezmer Quartet,8534,Live at the 2011 Golden Festival -- EWKQ,29.976598639455784
+43517,International,5,../data/local/processed_mel/043517.npy,10174,Eastern Watershed Klezmer Quartet,8534,Live at the 2011 Golden Festival -- EWKQ,29.976598639455784
+43518,International,5,../data/local/processed_mel/043518.npy,10174,Eastern Watershed Klezmer Quartet,8534,Live at the 2011 Golden Festival -- EWKQ,29.976598639455784
+43519,International,5,../data/local/processed_mel/043519.npy,10174,Eastern Watershed Klezmer Quartet,8534,Live at the 2011 Golden Festival -- EWKQ,29.976598639455784
+43520,International,5,../data/local/processed_mel/043520.npy,10174,Eastern Watershed Klezmer Quartet,8534,Live at the 2011 Golden Festival -- EWKQ,30.002721088435376
+43521,International,5,../data/local/processed_mel/043521.npy,10174,Eastern Watershed Klezmer Quartet,8534,Live at the 2011 Golden Festival -- EWKQ,29.976598639455784
+43765,International,5,../data/local/processed_mel/043765.npy,411,Ansambl Mastika,8584,Live at the 2011 Golden Festival: Ansambl Mastika,29.976598639455784
+43766,International,5,../data/local/processed_mel/043766.npy,411,Ansambl Mastika,8584,Live at the 2011 Golden Festival: Ansambl Mastika,30.002721088435376
+43767,International,5,../data/local/processed_mel/043767.npy,411,Ansambl Mastika,8584,Live at the 2011 Golden Festival: Ansambl Mastika,30.002721088435376
+43768,International,5,../data/local/processed_mel/043768.npy,411,Ansambl Mastika,8584,Live at the 2011 Golden Festival: Ansambl Mastika,29.976598639455784
+43859,Hip-Hop,3,../data/local/processed_mel/043859.npy,10231,Katrah-Quey ft. dj Alekzander,8608,Sour Soul 12,29.976598639455784
+44777,Folk,2,../data/local/processed_mel/044777.npy,10345,Least Carpet,8695,Least Carpet EP,29.976598639455784
+44800,Experimental,1,../data/local/processed_mel/044800.npy,10356,Aleksi Eeben,8698,Party in Space,29.976598639455784
+45149,Electronic,0,../data/local/processed_mel/045149.npy,10418,Nisiru,8767,"We Call It Skweeast, Vol. 1",30.002721088435376
+45152,Electronic,0,../data/local/processed_mel/045152.npy,10422,DrGy,8768,"We Call It Skweeast, Vol. 2",30.002721088435376
+45934,Experimental,1,../data/local/processed_mel/045934.npy,10497,Rune Martinsen,8874,Peak the Source Vol.1,30.002721088435376
+46717,Experimental,1,../data/local/processed_mel/046717.npy,10698,Eva-Maria Houben,8971,works for piano,29.976598639455784
+46718,Experimental,1,../data/local/processed_mel/046718.npy,10698,Eva-Maria Houben,8971,works for piano,29.976598639455784
+46720,Experimental,1,../data/local/processed_mel/046720.npy,10698,Eva-Maria Houben,8971,works for piano,30.002721088435376
+47471,Rock,7,../data/local/processed_mel/047471.npy,10865,Elks,9092,"Live on WFMU with Marty McSorley, 4/26/11",30.002721088435376
+47526,Rock,7,../data/local/processed_mel/047526.npy,7073,Bare Wires,9104,Live on WFMU's Cherry Blossom Clinic with Terre T April 23 2011,30.002721088435376
+47628,Folk,2,../data/local/processed_mel/047628.npy,10900,Clever Elsa,9130,Clever Elsa,30.002721088435376
+48293,Electronic,0,../data/local/processed_mel/048293.npy,3766,Goto80,9255,BACKUP11 - Platine festival Compilation,29.976598639455784
+48990,Rock,7,../data/local/processed_mel/048990.npy,6107,Les Baudouins Morts,9345,Les Encores des Baudouins Morts,30.002721088435376
+48999,Rock,7,../data/local/processed_mel/048999.npy,11153,The Great Wilderness,9346,Bad Panda #86,29.976598639455784
+49477,Pop,6,../data/local/processed_mel/049477.npy,3222,Garmisch,9417,netBloc Vol. 33: You can get with this...,30.002721088435376
+50752,Rock,7,../data/local/processed_mel/050752.npy,11418,Metalmorphosis,9588,Biopsja Duszy,29.976598639455784
+50753,Rock,7,../data/local/processed_mel/050753.npy,11418,Metalmorphosis,9588,Biopsja Duszy,30.002721088435376
+50754,Rock,7,../data/local/processed_mel/050754.npy,11418,Metalmorphosis,9588,Biopsja Duszy,30.002721088435376
+51260,Pop,6,../data/local/processed_mel/051260.npy,11471,Les Filles et les Garçons,9660,a tribute to club tropicana vol. 2,30.002721088435376
+51272,Pop,6,../data/local/processed_mel/051272.npy,11483,Work Drugs,9660,a tribute to club tropicana vol. 2,29.976598639455784
+51301,Experimental,1,../data/local/processed_mel/051301.npy,9336,John Badger & The Moustache Riders of Doom,9666,The Hanging Man,30.002721088435376
+51305,Experimental,1,../data/local/processed_mel/051305.npy,9336,John Badger & The Moustache Riders of Doom,9666,The Hanging Man,30.002721088435376
+53228,Pop,6,../data/local/processed_mel/053228.npy,11811,Fruit Flesh,9963,Bad Panda #97,30.002721088435376
+53229,Pop,6,../data/local/processed_mel/053229.npy,11811,Fruit Flesh,9963,Bad Panda #97,29.976598639455784
+53586,Folk,2,../data/local/processed_mel/053586.npy,77,Big Blood,10010,Big Blood & The Wicked Hex,29.976598639455784
+53587,Folk,2,../data/local/processed_mel/053587.npy,77,Big Blood,10010,Big Blood & The Wicked Hex,29.976598639455784
+53588,Folk,2,../data/local/processed_mel/053588.npy,77,Big Blood,10010,Big Blood & The Wicked Hex,29.976598639455784
+53589,Folk,2,../data/local/processed_mel/053589.npy,77,Big Blood,10010,Big Blood & The Wicked Hex,29.976598639455784
+54703,Folk,2,../data/local/processed_mel/054703.npy,12030,Bird of Youth,10233,"Live at WFMU on Gaylord Fields' Show on September 25, 2011",29.976598639455784
+56523,Electronic,0,../data/local/processed_mel/056523.npy,12273,Kevin Bryce,10443,1+e,29.976598639455784
+56895,Pop,6,../data/local/processed_mel/056895.npy,1655,Lame Drivers,8857,Cruisin' Classics: 2003-2010 (excerpts),30.002721088435376
+56929,Rock,7,../data/local/processed_mel/056929.npy,12354,Jack Ruby,10515,S/T,29.976598639455784
+57271,Experimental,1,../data/local/processed_mel/057271.npy,12158,Sol Rezza,10565,The existence of the light,30.002721088435376
+57272,Experimental,1,../data/local/processed_mel/057272.npy,12158,Sol Rezza,10565,The existence of the light,29.976598639455784
+57273,Experimental,1,../data/local/processed_mel/057273.npy,12158,Sol Rezza,10565,The existence of the light,29.976598639455784
+57274,Experimental,1,../data/local/processed_mel/057274.npy,12158,Sol Rezza,10565,The existence of the light,30.002721088435376
+57540,Electronic,0,../data/local/processed_mel/057540.npy,11122,Ralp,10593,Fuldatax,30.002721088435376
+59562,Rock,7,../data/local/processed_mel/059562.npy,12833,Handgrenades,10932,"""Demo to London"" b/w ""Coma Dos"" 45",29.976598639455784
+59581,International,5,../data/local/processed_mel/059581.npy,12351,Circus Marcus,10938,Búsquedas Exploratorias,30.002721088435376
+59695,International,5,../data/local/processed_mel/059695.npy,12856,Judith Cohen,10958,"Judith Cohen Live at the Golden Festival Atrium Stage, Jan 14 2012",30.002721088435376
+60476,Hip-Hop,3,../data/local/processed_mel/060476.npy,12967,Mokhov,11069,netBloc Vol. 36: Get Dusted (Illness From The Dusted Wax Stacks),30.002721088435376
+60533,International,5,../data/local/processed_mel/060533.npy,12974,Rakiya,11075,"Rakiya live in the Golden Festival Rainbow Room, Jan 14th 2012",30.002721088435376
+60534,International,5,../data/local/processed_mel/060534.npy,12974,Rakiya,11075,"Rakiya live in the Golden Festival Rainbow Room, Jan 14th 2012",29.976598639455784
+60535,International,5,../data/local/processed_mel/060535.npy,12974,Rakiya,11075,"Rakiya live in the Golden Festival Rainbow Room, Jan 14th 2012",29.976598639455784
+60536,International,5,../data/local/processed_mel/060536.npy,12974,Rakiya,11075,"Rakiya live in the Golden Festival Rainbow Room, Jan 14th 2012",29.976598639455784
+60537,International,5,../data/local/processed_mel/060537.npy,12974,Rakiya,11075,"Rakiya live in the Golden Festival Rainbow Room, Jan 14th 2012",29.976598639455784
+60871,International,5,../data/local/processed_mel/060871.npy,10174,Eastern Watershed Klezmer Quartet,11137,Live at the 2012 Golden Festival Main Stage,29.976598639455784
+60872,International,5,../data/local/processed_mel/060872.npy,10174,Eastern Watershed Klezmer Quartet,11137,Live at the 2012 Golden Festival Main Stage,29.976598639455784
+60873,International,5,../data/local/processed_mel/060873.npy,10174,Eastern Watershed Klezmer Quartet,11137,Live at the 2012 Golden Festival Main Stage,29.976598639455784
+60874,International,5,../data/local/processed_mel/060874.npy,10174,Eastern Watershed Klezmer Quartet,11137,Live at the 2012 Golden Festival Main Stage,30.002721088435376
+60875,International,5,../data/local/processed_mel/060875.npy,10174,Eastern Watershed Klezmer Quartet,11137,Live at the 2012 Golden Festival Main Stage,29.976598639455784
+61820,Rock,7,../data/local/processed_mel/061820.npy,13158,Ed Saad,11234,Kalashnikov Presents: 1-666-CALL-SAAD,29.976598639455784
+61821,Rock,7,../data/local/processed_mel/061821.npy,13158,Ed Saad,11234,Kalashnikov Presents: 1-666-CALL-SAAD,30.002721088435376
+63064,Electronic,0,../data/local/processed_mel/063064.npy,13326,Koona,11432,"Underwater, Starkey",29.976598639455784
+63065,Electronic,0,../data/local/processed_mel/063065.npy,13326,Koona,11432,"Underwater, Starkey",30.002721088435376
+63149,Experimental,1,../data/local/processed_mel/063149.npy,10,Lucky Dragons,11446,Relax in a Hurry,29.976598639455784
+63159,Experimental,1,../data/local/processed_mel/063159.npy,10,Lucky Dragons,11446,Relax in a Hurry,30.002721088435376
+63161,Experimental,1,../data/local/processed_mel/063161.npy,10,Lucky Dragons,11446,Relax in a Hurry,30.002721088435376
+63250,Folk,2,../data/local/processed_mel/063250.npy,77,Big Blood,11463,Old Time Primitives,30.002721088435376
+63251,Folk,2,../data/local/processed_mel/063251.npy,77,Big Blood,11463,Old Time Primitives,29.976598639455784
+63252,Folk,2,../data/local/processed_mel/063252.npy,77,Big Blood,11463,Old Time Primitives,29.976598639455784
+63253,Folk,2,../data/local/processed_mel/063253.npy,77,Big Blood,11463,Old Time Primitives,29.976598639455784
+63255,Folk,2,../data/local/processed_mel/063255.npy,77,Big Blood,11463,Old Time Primitives,30.002721088435376
+63257,Folk,2,../data/local/processed_mel/063257.npy,77,Big Blood,11463,Old Time Primitives,30.002721088435376
+63258,Folk,2,../data/local/processed_mel/063258.npy,77,Big Blood,11463,Old Time Primitives,29.976598639455784
+63456,Folk,2,../data/local/processed_mel/063456.npy,77,Big Blood,11463,Old Time Primitives,30.002721088435376
+63457,Folk,2,../data/local/processed_mel/063457.npy,77,Big Blood,11463,Old Time Primitives,29.976598639455784
+64618,Electronic,0,../data/local/processed_mel/064618.npy,13492,Indian Wells,11649,Night Drops,29.976598639455784
+65265,Experimental,1,../data/local/processed_mel/065265.npy,13606,Susan Alcorn,11768,Jandek Live at ISSUE Project Room,30.002721088435376
+65777,Electronic,0,../data/local/processed_mel/065777.npy,13720,Adubter,11833,Intro,29.976598639455784
+65779,Electronic,0,../data/local/processed_mel/065779.npy,13720,Adubter,11833,Intro,29.976598639455784
+65780,Electronic,0,../data/local/processed_mel/065780.npy,13720,Adubter,3369,intro,29.976598639455784
+66534,Rock,7,../data/local/processed_mel/066534.npy,10027,Waylon Thornton,11946,Baladora,30.002721088435376
+66535,Rock,7,../data/local/processed_mel/066535.npy,10027,Waylon Thornton,11946,Baladora,30.002721088435376
+66536,Rock,7,../data/local/processed_mel/066536.npy,10027,Waylon Thornton,11946,Baladora,30.002721088435376
+66537,Rock,7,../data/local/processed_mel/066537.npy,10027,Waylon Thornton,11946,Baladora,30.002721088435376
+66538,Rock,7,../data/local/processed_mel/066538.npy,10027,Waylon Thornton,11946,Baladora,29.976598639455784
+66539,Rock,7,../data/local/processed_mel/066539.npy,10027,Waylon Thornton,11946,Baladora,30.002721088435376
+66717,Rock,7,../data/local/processed_mel/066717.npy,13904,Young Love,11975,Helmets & Flags,29.976598639455784
+67330,Pop,6,../data/local/processed_mel/067330.npy,13985,Drama for Yamaha,12062,Archipelago,30.002721088435376
+67331,Pop,6,../data/local/processed_mel/067331.npy,13985,Drama for Yamaha,12062,Archipelago,29.976598639455784
+67332,Pop,6,../data/local/processed_mel/067332.npy,13985,Drama for Yamaha,12062,Archipelago,30.002721088435376
+67333,Pop,6,../data/local/processed_mel/067333.npy,13985,Drama for Yamaha,12062,Archipelago,29.976598639455784
+67334,Pop,6,../data/local/processed_mel/067334.npy,13985,Drama for Yamaha,12062,Archipelago,30.002721088435376
+67336,Pop,6,../data/local/processed_mel/067336.npy,13985,Drama for Yamaha,12062,Archipelago,30.002721088435376
+67365,Pop,6,../data/local/processed_mel/067365.npy,13997,Saitto Elettrico Goodsound,12066,"A Fifty Gallon Drum of Savage Customs, Fresh Flesh and Random Pop",30.002721088435376
+67457,Experimental,1,../data/local/processed_mel/067457.npy,1783,Big City Orchestra,12080,Trixxy Pixxy,29.976598639455784
+68404,Rock,7,../data/local/processed_mel/068404.npy,14098,LAZY,12228,Obsession,29.976598639455784
+68536,Experimental,1,../data/local/processed_mel/068536.npy,14123,andybrannan,12256,Walla Walla Walla,30.002721088435376
+68537,Experimental,1,../data/local/processed_mel/068537.npy,14123,andybrannan,12256,Walla Walla Walla,29.976598639455784
+68551,Experimental,1,../data/local/processed_mel/068551.npy,14132,gelo-papas,12256,Walla Walla Walla,30.002721088435376
+68582,Electronic,0,../data/local/processed_mel/068582.npy,13492,Indian Wells,11649,Night Drops,30.002721088435376
+68587,Electronic,0,../data/local/processed_mel/068587.npy,13492,Indian Wells,11649,Night Drops,30.002721088435376
+68891,Electronic,0,../data/local/processed_mel/068891.npy,9067,Broke For Free,12294,Leaf,29.976598639455784
+68892,Electronic,0,../data/local/processed_mel/068892.npy,9067,Broke For Free,12294,Leaf,29.976598639455784
+68893,Electronic,0,../data/local/processed_mel/068893.npy,9067,Broke For Free,12294,Leaf,30.002721088435376
+68894,Electronic,0,../data/local/processed_mel/068894.npy,9067,Broke For Free,12294,Leaf,29.976598639455784
+68895,Electronic,0,../data/local/processed_mel/068895.npy,9067,Broke For Free,12294,Leaf,29.976598639455784
+68896,Electronic,0,../data/local/processed_mel/068896.npy,9067,Broke For Free,12294,Leaf,29.976598639455784
+68897,Electronic,0,../data/local/processed_mel/068897.npy,9067,Broke For Free,12294,Leaf,30.002721088435376
+68898,Electronic,0,../data/local/processed_mel/068898.npy,9067,Broke For Free,12294,Leaf,29.976598639455784
+68899,Electronic,0,../data/local/processed_mel/068899.npy,9067,Broke For Free,12294,Leaf,29.976598639455784
+69221,Electronic,0,../data/local/processed_mel/069221.npy,14217,Max Grin,12332,Three'S EP,29.976598639455784
+69222,Electronic,0,../data/local/processed_mel/069222.npy,14217,Max Grin,12332,Three'S EP,29.976598639455784
+69223,Electronic,0,../data/local/processed_mel/069223.npy,14217,Max Grin,12332,Three'S EP,29.976598639455784
+69303,Experimental,1,../data/local/processed_mel/069303.npy,12704,Diamond Terrifier,12340,Live on WFMU's Airborne Event with Dan Bodah,29.976598639455784
+71371,Rock,7,../data/local/processed_mel/071371.npy,14555,Black Bones,12653,Pirates of the Coast,29.976598639455784
+71372,Rock,7,../data/local/processed_mel/071372.npy,14555,Black Bones,12653,Pirates of the Coast,29.976598639455784
+71420,Electronic,0,../data/local/processed_mel/071420.npy,14558,Kurobear,12660,Special Electric,30.002721088435376
+71503,Electronic,0,../data/local/processed_mel/071503.npy,15504,ui,12672,Monorave Compo,30.002721088435376
+71711,Rock,7,../data/local/processed_mel/071711.npy,5309,Bad Party,12699,"""Not That Kind Of Girl""",29.976598639455784
+73494,Experimental,1,../data/local/processed_mel/073494.npy,14953,Echo Beach,13004,Live at CKUT on Modular Systems,29.976598639455784
+73519,Rock,7,../data/local/processed_mel/073519.npy,14958,Hounds Of Hate,13012,Live on WFMU's Distort Jersey City with Deed Runlea 11-28-12,30.002721088435376
+73520,Rock,7,../data/local/processed_mel/073520.npy,14958,Hounds Of Hate,13012,Live on WFMU's Distort Jersey City with Deed Runlea 11-28-12,29.976598639455784
+73521,Rock,7,../data/local/processed_mel/073521.npy,14958,Hounds Of Hate,13012,Live on WFMU's Distort Jersey City with Deed Runlea 11-28-12,29.976598639455784
+73522,Rock,7,../data/local/processed_mel/073522.npy,14958,Hounds Of Hate,13012,Live on WFMU's Distort Jersey City with Deed Runlea 11-28-12,29.976598639455784
+73776,International,5,../data/local/processed_mel/073776.npy,14991,StrangeZero,13057,#CC-10 Europe Mixtape,30.002721088435376
+73777,International,5,../data/local/processed_mel/073777.npy,14982,Melodiesinfonie,13057,#CC-10 Europe Mixtape,29.976598639455784
+73779,International,5,../data/local/processed_mel/073779.npy,14981,Mezonom,13057,#CC-10 Europe Mixtape,29.976598639455784
+74002,Pop,6,../data/local/processed_mel/074002.npy,15036,Mystery Pills,13089,Mystery Pills,30.002721088435376
+74374,Experimental,1,../data/local/processed_mel/074374.npy,15118,Roslyn,13141,En attendant Noël...,30.002721088435376
+74393,Experimental,1,../data/local/processed_mel/074393.npy,12565,Rue Royale,13141,En attendant Noël...,29.976598639455784
+76128,Pop,6,../data/local/processed_mel/076128.npy,9067,Broke For Free,13322,Gold Can Stay,29.976598639455784
+76129,Pop,6,../data/local/processed_mel/076129.npy,9067,Broke For Free,13322,Gold Can Stay,29.976598639455784
+76130,Pop,6,../data/local/processed_mel/076130.npy,9067,Broke For Free,13322,Gold Can Stay,29.976598639455784
+76131,Pop,6,../data/local/processed_mel/076131.npy,9067,Broke For Free,13322,Gold Can Stay,29.976598639455784
+76363,Instrumental,4,../data/local/processed_mel/076363.npy,12351,Circus Marcus,13352,Piano du pauvre,29.976598639455784
+81071,Experimental,1,../data/local/processed_mel/081071.npy,11832,Nick Kuepfer,13862,"Live on CKUT's Montreal Sessions March 26, 2013",29.976598639455784
+82462,Rock,7,../data/local/processed_mel/082462.npy,4120,Throwing Muses,13998,Live on Noise from Neville 1985,29.988979591836735
+82464,Rock,7,../data/local/processed_mel/082464.npy,4120,Throwing Muses,13998,Live on Noise from Neville 1985,29.988979591836735
+82778,Hip-Hop,3,../data/local/processed_mel/082778.npy,16031,The Impossebulls,14041,Made by History (Decade One: 2000-2010),30.002721088435376
+82780,Hip-Hop,3,../data/local/processed_mel/082780.npy,16031,The Impossebulls,14041,Made by History (Decade One: 2000-2010),29.976598639455784
+83898,Experimental,1,../data/local/processed_mel/083898.npy,16170,Rod Rivers and the Big Action Sound,14168,The Wonderful and the Obscure Volume 1: Rodd Keith,29.976598639455784
+83906,Experimental,1,../data/local/processed_mel/083906.npy,16170,Rod Rivers and the Big Action Sound,14168,The Wonderful and the Obscure Volume 1: Rodd Keith,30.002721088435376
+84057,Experimental,1,../data/local/processed_mel/084057.npy,16248,Sydney Beveridge,14189,Megapolis Festival Remix Workshop 2013,29.976598639455784
+84091,Electronic,0,../data/local/processed_mel/084091.npy,16267,Émilie Simon,14192,Contes Et Histoires Grésillantes,30.002721088435376
+84152,Experimental,1,../data/local/processed_mel/084152.npy,1464,Sikhara,7302,IV War Haka,29.976598639455784
+84736,Instrumental,4,../data/local/processed_mel/084736.npy,12351,Circus Marcus,13352,Piano du pauvre,29.976598639455784
+84777,Electronic,0,../data/local/processed_mel/084777.npy,16378,Howse,14296,AS220's Spring Sampler 2013,30.002721088435376
+85307,Pop,6,../data/local/processed_mel/085307.npy,3222,Garmisch,14388,They Seem To Be Intelligent,29.976598639455784
+85308,Pop,6,../data/local/processed_mel/085308.npy,3222,Garmisch,14388,They Seem To Be Intelligent,29.976598639455784
+85309,Pop,6,../data/local/processed_mel/085309.npy,3222,Garmisch,14388,They Seem To Be Intelligent,29.976598639455784
+85310,Pop,6,../data/local/processed_mel/085310.npy,3222,Garmisch,14388,They Seem To Be Intelligent,29.976598639455784
+85311,Pop,6,../data/local/processed_mel/085311.npy,3222,Garmisch,14388,They Seem To Be Intelligent,30.002721088435376
+85592,Pop,6,../data/local/processed_mel/085592.npy,3222,Garmisch,14436,Fishes,29.976598639455784
+85593,Pop,6,../data/local/processed_mel/085593.npy,3222,Garmisch,14436,Fishes,30.002721088435376
+85594,Pop,6,../data/local/processed_mel/085594.npy,3222,Garmisch,14436,Fishes,30.002721088435376
+85595,Pop,6,../data/local/processed_mel/085595.npy,3222,Garmisch,14436,Fishes,30.002721088435376
+85596,Pop,6,../data/local/processed_mel/085596.npy,3222,Garmisch,14436,Fishes,29.976598639455784
+85598,Pop,6,../data/local/processed_mel/085598.npy,3222,Garmisch,14436,Fishes,30.002721088435376
+85599,Pop,6,../data/local/processed_mel/085599.npy,3222,Garmisch,14436,Fishes,30.002721088435376
+85600,Pop,6,../data/local/processed_mel/085600.npy,3222,Garmisch,14436,Fishes,29.976598639455784
+86037,Instrumental,4,../data/local/processed_mel/086037.npy,16532,Teatro Grotesco,14503,At the House of Dolls,30.002721088435376
+86038,Instrumental,4,../data/local/processed_mel/086038.npy,16532,Teatro Grotesco,14503,At the House of Dolls,29.976598639455784
+86039,Instrumental,4,../data/local/processed_mel/086039.npy,16532,Teatro Grotesco,14503,At the House of Dolls,29.976598639455784
+86040,Instrumental,4,../data/local/processed_mel/086040.npy,16532,Teatro Grotesco,14503,At the House of Dolls,29.976598639455784
+86116,Pop,6,../data/local/processed_mel/086116.npy,3222,Garmisch,14515,And Now We Stand Against The Wall,30.002721088435376
+86117,Pop,6,../data/local/processed_mel/086117.npy,3222,Garmisch,14515,And Now We Stand Against The Wall,29.976598639455784
+86118,Pop,6,../data/local/processed_mel/086118.npy,3222,Garmisch,14515,And Now We Stand Against The Wall,30.002721088435376
+86119,Pop,6,../data/local/processed_mel/086119.npy,3222,Garmisch,14515,And Now We Stand Against The Wall,30.002721088435376
+86256,Experimental,1,../data/local/processed_mel/086256.npy,16583,echosonic,14533,Drones To Make Dinner By,29.976598639455784
+86415,Hip-Hop,3,../data/local/processed_mel/086415.npy,16031,The Impossebulls,14551,From the Bottom (Soundtrack Edit),29.976598639455784
+86416,Hip-Hop,3,../data/local/processed_mel/086416.npy,16031,The Impossebulls,14551,From the Bottom (Soundtrack Edit),29.976598639455784
+86634,Pop,6,../data/local/processed_mel/086634.npy,16630,David Blair,14589,Stay In Touch,29.976598639455784
+86788,Rock,7,../data/local/processed_mel/086788.npy,16627,Die Leere im Kern Deiner Hoffnung,14588,C3S :: Ignition Mix,29.976598639455784
+87069,Electronic,0,../data/local/processed_mel/087069.npy,11578,Waste Disposal Machine,14644,Realm of the New Day - The Remixes,30.002721088435376
+89445,Hip-Hop,3,../data/local/processed_mel/089445.npy,16870,Shad + Skratch Bastid,14928,netBloc Vol. 44: Break From The System That Gotcha,29.976598639455784
+90526,Instrumental,4,../data/local/processed_mel/090526.npy,16986,Rod Hamilton,15010,Teal,29.976598639455784
+90527,Instrumental,4,../data/local/processed_mel/090527.npy,16986,Rod Hamilton,15010,Teal,30.002721088435376
+90529,Instrumental,4,../data/local/processed_mel/090529.npy,16986,Rod Hamilton,15010,Teal,29.976598639455784
+90530,Instrumental,4,../data/local/processed_mel/090530.npy,16986,Rod Hamilton,15010,Teal,29.976598639455784
+90616,Instrumental,4,../data/local/processed_mel/090616.npy,16986,Rod Hamilton,15010,Teal,30.002721088435376
+90617,Instrumental,4,../data/local/processed_mel/090617.npy,16986,Rod Hamilton,15010,Teal,29.976598639455784
+90618,Instrumental,4,../data/local/processed_mel/090618.npy,16986,Rod Hamilton,15010,Teal,29.976598639455784
+91468,Pop,6,../data/local/processed_mel/091468.npy,15036,Mystery Pills,13089,Mystery Pills,29.976598639455784
+91471,Pop,6,../data/local/processed_mel/091471.npy,15036,Mystery Pills,13089,Mystery Pills,29.976598639455784
+92366,Electronic,0,../data/local/processed_mel/092366.npy,17171,Out Of Orion (Ox3),15277,Spectral Voices,30.002721088435376
+93518,Electronic,0,../data/local/processed_mel/093518.npy,17332,Moon Veil,15399,Snake Charm,29.976598639455784
+93519,Electronic,0,../data/local/processed_mel/093519.npy,17332,Moon Veil,15399,Snake Charm,30.002721088435376
+93520,Electronic,0,../data/local/processed_mel/093520.npy,17332,Moon Veil,15399,Snake Charm,29.976598639455784
+93521,Electronic,0,../data/local/processed_mel/093521.npy,17332,Moon Veil,15399,Snake Charm,30.002721088435376
+93522,Electronic,0,../data/local/processed_mel/093522.npy,17332,Moon Veil,15399,Snake Charm,30.002721088435376
+93523,Electronic,0,../data/local/processed_mel/093523.npy,17332,Moon Veil,15399,Snake Charm,30.002721088435376
+94093,Rock,7,../data/local/processed_mel/094093.npy,17370,Westy Reflector,15461,Transient Lines,29.976598639455784
+94099,Rock,7,../data/local/processed_mel/094099.npy,17370,Westy Reflector,15461,Transient Lines,30.002721088435376
+94101,Rock,7,../data/local/processed_mel/094101.npy,17370,Westy Reflector,15461,Transient Lines,29.976598639455784
+94102,Rock,7,../data/local/processed_mel/094102.npy,17370,Westy Reflector,15461,Transient Lines,30.002721088435376
+94803,Electronic,0,../data/local/processed_mel/094803.npy,3766,Goto80,15521,Open Funk Sores,29.976598639455784
+95486,Pop,6,../data/local/processed_mel/095486.npy,8536,Ventolyn & Becotyde,15577,Audissect,30.002721088435376
+95535,Rock,7,../data/local/processed_mel/095535.npy,17370,Westy Reflector,15586,Still Echoes,29.976598639455784
+97286,Rock,7,../data/local/processed_mel/097286.npy,17448,Чокнутый Пропеллер,15774,We Wanna Rock,30.002721088435376
+98077,Rock,7,../data/local/processed_mel/098077.npy,17448,Чокнутый Пропеллер,15879,Глазами Детей,30.002721088435376
+98298,International,5,../data/local/processed_mel/098298.npy,12974,Rakiya,15905,Live at the 2014 Golden Festival,30.002721088435376
+98299,International,5,../data/local/processed_mel/098299.npy,12974,Rakiya,15905,Live at the 2014 Golden Festival,29.976598639455784
+98300,International,5,../data/local/processed_mel/098300.npy,12974,Rakiya,15905,Live at the 2014 Golden Festival,30.002721088435376
+98301,International,5,../data/local/processed_mel/098301.npy,12974,Rakiya,15905,Live at the 2014 Golden Festival,29.976598639455784
+98302,International,5,../data/local/processed_mel/098302.npy,12974,Rakiya,15905,Live at the 2014 Golden Festival,30.002721088435376
+98346,International,5,../data/local/processed_mel/098346.npy,17938,Ornamatik,15914,Live at the 2014 Golden Festival,30.002721088435376
+98348,International,5,../data/local/processed_mel/098348.npy,17938,Ornamatik,15914,Live at the 2014 Golden Festival,29.976598639455784
+98349,International,5,../data/local/processed_mel/098349.npy,17938,Ornamatik,15914,Live at the 2014 Golden Festival,29.976598639455784
+99093,Hip-Hop,3,../data/local/processed_mel/099093.npy,16031,The Impossebulls,16020,Raw As F**k,30.002721088435376
+99095,Hip-Hop,3,../data/local/processed_mel/099095.npy,16031,The Impossebulls,16020,Raw As F**k,30.002721088435376
+99096,Hip-Hop,3,../data/local/processed_mel/099096.npy,16031,The Impossebulls,16020,Raw As F**k,29.976598639455784
+101951,Rock,7,../data/local/processed_mel/101951.npy,18238,Nancy,16194,"Live on WFMU's Distort Jersey City with Reed Dunlea - February 18, 2014",30.002721088435376
+103518,Instrumental,4,../data/local/processed_mel/103518.npy,18286,Novi Split,16291,"If Not This, Then What?",29.988979591836735
+103519,Instrumental,4,../data/local/processed_mel/103519.npy,18286,Novi Split,16291,"If Not This, Then What?",29.988979591836735
+103520,Instrumental,4,../data/local/processed_mel/103520.npy,18286,Novi Split,16291,"If Not This, Then What?",29.988979591836735
+103521,Instrumental,4,../data/local/processed_mel/103521.npy,18286,Novi Split,16291,"If Not This, Then What?",29.988979591836735
+103522,Instrumental,4,../data/local/processed_mel/103522.npy,18286,Novi Split,16291,"If Not This, Then What?",29.976598639455784
+103523,Instrumental,4,../data/local/processed_mel/103523.npy,18286,Novi Split,16291,"If Not This, Then What?",30.002721088435376
+104434,Experimental,1,../data/local/processed_mel/104434.npy,15508,Farthest South,16381,Neurim,30.002721088435376
+105141,Rock,7,../data/local/processed_mel/105141.npy,11578,Waste Disposal Machine,16446,Detritus,29.976598639455784
+105144,Rock,7,../data/local/processed_mel/105144.npy,11578,Waste Disposal Machine,16446,Detritus,29.976598639455784
+106629,Instrumental,4,../data/local/processed_mel/106629.npy,18680,Phelios,16611,MCMLII,30.002721088435376
+106872,Rock,7,../data/local/processed_mel/106872.npy,17370,Westy Reflector,16637,Reflected.10x10,29.976598639455784
+106876,Rock,7,../data/local/processed_mel/106876.npy,17370,Westy Reflector,16637,Reflected.10x10,29.976598639455784
+106877,Rock,7,../data/local/processed_mel/106877.npy,17370,Westy Reflector,16637,Reflected.10x10,29.976598639455784
+108456,Pop,6,../data/local/processed_mel/108456.npy,18873,Miracles of Modern Science,16866,MEEMS,29.976598639455784
+108457,Pop,6,../data/local/processed_mel/108457.npy,18873,Miracles of Modern Science,16866,MEEMS,30.002721088435376
+108459,Pop,6,../data/local/processed_mel/108459.npy,18873,Miracles of Modern Science,16866,MEEMS,29.976598639455784
+108460,Pop,6,../data/local/processed_mel/108460.npy,18873,Miracles of Modern Science,16866,MEEMS,29.976598639455784
+108461,Pop,6,../data/local/processed_mel/108461.npy,18873,Miracles of Modern Science,16866,MEEMS,30.002721088435376
+108493,Hip-Hop,3,../data/local/processed_mel/108493.npy,18879,Sun Sunych ft. DanBrown,16872,Hybris,29.988979591836735
+108495,Hip-Hop,3,../data/local/processed_mel/108495.npy,18879,Sun Sunych ft. DanBrown,16872,Hybris,29.988979591836735
+108524,Electronic,0,../data/local/processed_mel/108524.npy,18885,Ghost By Nature,16878,Funk Therapy,30.002721088435376
+108525,Electronic,0,../data/local/processed_mel/108525.npy,18885,Ghost By Nature,16878,Funk Therapy,29.976598639455784
+108526,Electronic,0,../data/local/processed_mel/108526.npy,18885,Ghost By Nature,16878,Funk Therapy,30.002721088435376
+108527,Electronic,0,../data/local/processed_mel/108527.npy,18885,Ghost By Nature,16878,Funk Therapy,29.976598639455784
+108528,Electronic,0,../data/local/processed_mel/108528.npy,18885,Ghost By Nature,16878,Funk Therapy,30.002721088435376
+108529,Electronic,0,../data/local/processed_mel/108529.npy,18885,Ghost By Nature,16878,Funk Therapy,29.976598639455784
+108530,Electronic,0,../data/local/processed_mel/108530.npy,18885,Ghost By Nature,16878,Funk Therapy,29.976598639455784
+108531,Electronic,0,../data/local/processed_mel/108531.npy,18885,Ghost By Nature,16878,Funk Therapy,30.002721088435376
+108532,Electronic,0,../data/local/processed_mel/108532.npy,18885,Ghost By Nature,16878,Funk Therapy,29.976598639455784
+108533,Electronic,0,../data/local/processed_mel/108533.npy,18885,Ghost By Nature,16878,Funk Therapy,29.976598639455784
+108842,Hip-Hop,3,../data/local/processed_mel/108842.npy,16031,The Impossebulls,16894,The More Things Stay The Same,30.002721088435376
+108843,Hip-Hop,3,../data/local/processed_mel/108843.npy,16031,The Impossebulls,16894,The More Things Stay The Same,29.976598639455784
+108845,Hip-Hop,3,../data/local/processed_mel/108845.npy,16031,The Impossebulls,16894,The More Things Stay The Same,30.002721088435376
+108846,Hip-Hop,3,../data/local/processed_mel/108846.npy,16031,The Impossebulls,16894,The More Things Stay The Same,30.002721088435376
+108847,Hip-Hop,3,../data/local/processed_mel/108847.npy,16031,The Impossebulls,16894,The More Things Stay The Same,29.976598639455784
+110070,Hip-Hop,3,../data/local/processed_mel/110070.npy,16031,The Impossebulls,17048,Everything Has Changed; Nothing Is Different,29.976598639455784
+110082,Hip-Hop,3,../data/local/processed_mel/110082.npy,16031,The Impossebulls,17048,Everything Has Changed; Nothing Is Different,30.002721088435376
+110084,Hip-Hop,3,../data/local/processed_mel/110084.npy,16031,The Impossebulls,17048,Everything Has Changed; Nothing Is Different,29.976598639455784
+110085,Hip-Hop,3,../data/local/processed_mel/110085.npy,16031,The Impossebulls,17048,Everything Has Changed; Nothing Is Different,30.002721088435376
+110086,Hip-Hop,3,../data/local/processed_mel/110086.npy,16031,The Impossebulls,17048,Everything Has Changed; Nothing Is Different,30.002721088435376
+110204,Experimental,1,../data/local/processed_mel/110204.npy,12351,Circus Marcus,17072,La tapa del día,29.976598639455784
+110205,Experimental,1,../data/local/processed_mel/110205.npy,12351,Circus Marcus,17072,La tapa del día,29.976598639455784
+110206,Experimental,1,../data/local/processed_mel/110206.npy,12351,Circus Marcus,17072,La tapa del día,29.976598639455784
+110207,Experimental,1,../data/local/processed_mel/110207.npy,12351,Circus Marcus,17072,La tapa del día,30.002721088435376
+110208,Experimental,1,../data/local/processed_mel/110208.npy,12351,Circus Marcus,17072,La tapa del día,29.976598639455784
+110209,Experimental,1,../data/local/processed_mel/110209.npy,12351,Circus Marcus,17072,La tapa del día,30.002721088435376
+110743,Hip-Hop,3,../data/local/processed_mel/110743.npy,16031,The Impossebulls,17152,Slave Education XE,30.002721088435376
+110744,Hip-Hop,3,../data/local/processed_mel/110744.npy,16031,The Impossebulls,17152,Slave Education XE,30.002721088435376
+110756,Hip-Hop,3,../data/local/processed_mel/110756.npy,16031,The Impossebulls,17152,Slave Education XE,30.002721088435376
+110764,Hip-Hop,3,../data/local/processed_mel/110764.npy,16031,The Impossebulls,17152,Slave Education XE,30.002721088435376
+110765,Hip-Hop,3,../data/local/processed_mel/110765.npy,16031,The Impossebulls,17152,Slave Education XE,29.976598639455784
+110768,Hip-Hop,3,../data/local/processed_mel/110768.npy,16031,The Impossebulls,17152,Slave Education XE,29.976598639455784
+110771,Hip-Hop,3,../data/local/processed_mel/110771.npy,16031,The Impossebulls,17152,Slave Education XE,30.002721088435376
+110772,Hip-Hop,3,../data/local/processed_mel/110772.npy,16031,The Impossebulls,17152,Slave Education XE,30.002721088435376
+110774,Hip-Hop,3,../data/local/processed_mel/110774.npy,16031,The Impossebulls,17152,Slave Education XE,30.002721088435376
+110775,Hip-Hop,3,../data/local/processed_mel/110775.npy,16031,The Impossebulls,17152,Slave Education XE,29.976598639455784
+110776,Hip-Hop,3,../data/local/processed_mel/110776.npy,16031,The Impossebulls,17152,Slave Education XE,29.976598639455784
+110777,Hip-Hop,3,../data/local/processed_mel/110777.npy,16031,The Impossebulls,17152,Slave Education XE,29.976598639455784
+110778,Hip-Hop,3,../data/local/processed_mel/110778.npy,16031,The Impossebulls,17152,Slave Education XE,29.976598639455784
+110779,Hip-Hop,3,../data/local/processed_mel/110779.npy,16031,The Impossebulls,17152,Slave Education XE,29.976598639455784
+111146,Instrumental,4,../data/local/processed_mel/111146.npy,16986,Rod Hamilton,17186,Atitlán,30.002721088435376
+111147,Instrumental,4,../data/local/processed_mel/111147.npy,16986,Rod Hamilton,17186,Atitlán,30.002721088435376
+111148,Instrumental,4,../data/local/processed_mel/111148.npy,16986,Rod Hamilton,17186,Atitlán,29.976598639455784
+111149,Instrumental,4,../data/local/processed_mel/111149.npy,16986,Rod Hamilton,17186,Atitlán,29.976598639455784
+111150,Instrumental,4,../data/local/processed_mel/111150.npy,16986,Rod Hamilton,17186,Atitlán,29.976598639455784
+111151,Instrumental,4,../data/local/processed_mel/111151.npy,16986,Rod Hamilton,17186,Atitlán,29.976598639455784
+111153,Instrumental,4,../data/local/processed_mel/111153.npy,16986,Rod Hamilton,17186,Atitlán,29.976598639455784
+111154,Instrumental,4,../data/local/processed_mel/111154.npy,16986,Rod Hamilton,17186,Atitlán,29.976598639455784
+111216,Experimental,1,../data/local/processed_mel/111216.npy,19124,Minicomponente,17194,En Berli,29.976598639455784
+111934,Hip-Hop,3,../data/local/processed_mel/111934.npy,19201,Ebsa,17282,HeartworK,30.002721088435376
+111935,Hip-Hop,3,../data/local/processed_mel/111935.npy,19201,Ebsa,17282,HeartworK,29.976598639455784
+111936,Hip-Hop,3,../data/local/processed_mel/111936.npy,19201,Ebsa,17282,HeartworK,30.002721088435376
+111937,Hip-Hop,3,../data/local/processed_mel/111937.npy,19201,Ebsa,17282,HeartworK,29.976598639455784
+111938,Hip-Hop,3,../data/local/processed_mel/111938.npy,19201,Ebsa,17282,HeartworK,30.002721088435376
+111994,Instrumental,4,../data/local/processed_mel/111994.npy,19213,Serakhe0n,17291,Signal,30.002721088435376
+112000,Instrumental,4,../data/local/processed_mel/112000.npy,19213,Serakhe0n,17291,Signal,30.002721088435376
+112001,Instrumental,4,../data/local/processed_mel/112001.npy,19213,Serakhe0n,17291,Signal,30.002721088435376
+112468,Hip-Hop,3,../data/local/processed_mel/112468.npy,16031,The Impossebulls,17352,Road Warriors b/w Think (About It),30.002721088435376
+112481,Hip-Hop,3,../data/local/processed_mel/112481.npy,16031,The Impossebulls,17354,Everything,29.976598639455784
+112483,Hip-Hop,3,../data/local/processed_mel/112483.npy,16031,The Impossebulls,17354,Everything,29.976598639455784
+112484,Hip-Hop,3,../data/local/processed_mel/112484.npy,16031,The Impossebulls,17355,Nothing,29.976598639455784
+112485,Hip-Hop,3,../data/local/processed_mel/112485.npy,16031,The Impossebulls,17355,Nothing,29.976598639455784
+112486,Hip-Hop,3,../data/local/processed_mel/112486.npy,16031,The Impossebulls,17355,Nothing,30.002721088435376
+112487,Hip-Hop,3,../data/local/processed_mel/112487.npy,16031,The Impossebulls,17355,Nothing,29.976598639455784
+112488,Hip-Hop,3,../data/local/processed_mel/112488.npy,16031,The Impossebulls,17355,Nothing,30.002721088435376
+112790,Experimental,1,../data/local/processed_mel/112790.npy,19291,Pyrn,17393,Cloudgray (EP),29.976598639455784
+113262,International,5,../data/local/processed_mel/113262.npy,19360,Cartas a Felice,17457,CC Affiliates Mixtape #1,30.002721088435376
+113273,International,5,../data/local/processed_mel/113273.npy,19371,Ortalio,17457,CC Affiliates Mixtape #1,29.976598639455784
+113274,International,5,../data/local/processed_mel/113274.npy,19372,Rey Nocivo.,17457,CC Affiliates Mixtape #1,29.976598639455784
+113275,International,5,../data/local/processed_mel/113275.npy,19373,iNCH.,17457,CC Affiliates Mixtape #1,29.976598639455784
+113279,International,5,../data/local/processed_mel/113279.npy,19376,Celestial Aeon Project,17457,CC Affiliates Mixtape #1,30.002721088435376
+114212,Instrumental,4,../data/local/processed_mel/114212.npy,19472,Squire Tuck,17601,Collection,30.002721088435376
+114222,Instrumental,4,../data/local/processed_mel/114222.npy,19472,Squire Tuck,17601,Collection,30.002721088435376
+114223,Instrumental,4,../data/local/processed_mel/114223.npy,19472,Squire Tuck,17601,Collection,29.976598639455784
+114974,Experimental,1,../data/local/processed_mel/114974.npy,12287,last king of poland,17721,stormy castles,29.976598639455784
+114976,Experimental,1,../data/local/processed_mel/114976.npy,12287,last king of poland,17721,stormy castles,30.002721088435376
+115002,Instrumental,4,../data/local/processed_mel/115002.npy,19472,Squire Tuck,17706,Lost in the Moment,29.976598639455784
+115011,Instrumental,4,../data/local/processed_mel/115011.npy,19472,Squire Tuck,17706,Lost in the Moment,29.976598639455784
+115176,Instrumental,4,../data/local/processed_mel/115176.npy,19472,Squire Tuck,17745,Emotional Soundscapes,29.976598639455784
+115288,Instrumental,4,../data/local/processed_mel/115288.npy,19472,Squire Tuck,17756,Lay Your Ukulele On Me,30.002721088435376
+115289,Instrumental,4,../data/local/processed_mel/115289.npy,19472,Squire Tuck,17756,Lay Your Ukulele On Me,30.002721088435376
+115290,Instrumental,4,../data/local/processed_mel/115290.npy,19472,Squire Tuck,17756,Lay Your Ukulele On Me,29.976598639455784
+115292,Instrumental,4,../data/local/processed_mel/115292.npy,19472,Squire Tuck,17756,Lay Your Ukulele On Me,30.002721088435376
+115293,Instrumental,4,../data/local/processed_mel/115293.npy,19472,Squire Tuck,17756,Lay Your Ukulele On Me,29.976598639455784
+115294,Instrumental,4,../data/local/processed_mel/115294.npy,19472,Squire Tuck,17756,Lay Your Ukulele On Me,30.002721088435376
+115926,Folk,2,../data/local/processed_mel/115926.npy,19713,Nestor +3,17823,Roncheras,29.976598639455784
+116175,Instrumental,4,../data/local/processed_mel/116175.npy,19472,Squire Tuck,17885,Old Time Cowboys (the Last of a Dying Breed),29.976598639455784
+116176,Instrumental,4,../data/local/processed_mel/116176.npy,19472,Squire Tuck,17885,Old Time Cowboys (the Last of a Dying Breed),29.976598639455784
+116177,Instrumental,4,../data/local/processed_mel/116177.npy,19472,Squire Tuck,17885,Old Time Cowboys (the Last of a Dying Breed),29.976598639455784
+116388,Hip-Hop,3,../data/local/processed_mel/116388.npy,8693,Asthmatic Astronaut,17918,Good Morning Sunshine (2005),29.976598639455784
+116389,Hip-Hop,3,../data/local/processed_mel/116389.npy,8693,Asthmatic Astronaut,17918,Good Morning Sunshine (2005),30.002721088435376
+116390,Hip-Hop,3,../data/local/processed_mel/116390.npy,8693,Asthmatic Astronaut,17918,Good Morning Sunshine (2005),30.002721088435376
+116407,Hip-Hop,3,../data/local/processed_mel/116407.npy,8693,Asthmatic Astronaut,17921,Awaken,29.976598639455784
+116526,Instrumental,4,../data/local/processed_mel/116526.npy,19472,Squire Tuck,17937,Muse,29.976598639455784
+116527,Instrumental,4,../data/local/processed_mel/116527.npy,19472,Squire Tuck,17937,Muse,29.976598639455784
+116528,Instrumental,4,../data/local/processed_mel/116528.npy,19472,Squire Tuck,17937,Muse,29.976598639455784
+117251,Instrumental,4,../data/local/processed_mel/117251.npy,19472,Squire Tuck,18017,Music Box,30.002721088435376
+117252,Instrumental,4,../data/local/processed_mel/117252.npy,19472,Squire Tuck,18017,Music Box,30.002721088435376
+117253,Instrumental,4,../data/local/processed_mel/117253.npy,19472,Squire Tuck,18017,Music Box,29.976598639455784
+117626,Instrumental,4,../data/local/processed_mel/117626.npy,19888,Ulrike Mod,18056,Béatrice,29.976598639455784
+117883,Rock,7,../data/local/processed_mel/117883.npy,19909,Connections,18093,"Live on WFMU's Burn It Down! with Nate K - April 12, 2015",30.002721088435376
+117884,Rock,7,../data/local/processed_mel/117884.npy,19909,Connections,18093,"Live on WFMU's Burn It Down! with Nate K - April 12, 2015",29.976598639455784
+117885,Rock,7,../data/local/processed_mel/117885.npy,19909,Connections,18093,"Live on WFMU's Burn It Down! with Nate K - April 12, 2015",29.976598639455784
+117886,Rock,7,../data/local/processed_mel/117886.npy,19909,Connections,18093,"Live on WFMU's Burn It Down! with Nate K - April 12, 2015",30.002721088435376
+117887,Rock,7,../data/local/processed_mel/117887.npy,19909,Connections,18093,"Live on WFMU's Burn It Down! with Nate K - April 12, 2015",29.976598639455784
+117943,International,5,../data/local/processed_mel/117943.npy,5507,Arrogalla,18100,Declaration of Love,29.976598639455784
+117961,Experimental,1,../data/local/processed_mel/117961.npy,19916,Anal Sadist,18105,Jaan Patterson and Friends - 'The Interviews' Vol.1,29.976598639455784
+118505,Experimental,1,../data/local/processed_mel/118505.npy,20007,Josh Tillinghast,18154,A-C,29.976598639455784
+119584,Pop,6,../data/local/processed_mel/119584.npy,1821,Pee-Bug,18262,Witch Pizza Going Sally,30.002721088435376
+119592,Pop,6,../data/local/processed_mel/119592.npy,1821,Pee-Bug,18262,Witch Pizza Going Sally,29.976598639455784
+119828,Instrumental,4,../data/local/processed_mel/119828.npy,19472,Squire Tuck,18287,Rage & Regret,30.002721088435376
+119830,Instrumental,4,../data/local/processed_mel/119830.npy,19472,Squire Tuck,18287,Rage & Regret,29.976598639455784
+119831,Instrumental,4,../data/local/processed_mel/119831.npy,19472,Squire Tuck,18287,Rage & Regret,30.002721088435376
+120206,Pop,6,../data/local/processed_mel/120206.npy,2013,Very Proper Dragonflies,18324,Swingin' Singles,29.976598639455784
+121415,Rock,7,../data/local/processed_mel/121415.npy,20310,Dead End Canada,18428,Factory Life,29.976598639455784
+121595,Electronic,0,../data/local/processed_mel/121595.npy,20327,Phatte Harry,18451,Phatte Harry - Singles,30.002721088435376
+121913,International,5,../data/local/processed_mel/121913.npy,20367,Negritage,18489,Guetto Roots Of Dub (Vol.1),29.976598639455784
+121915,International,5,../data/local/processed_mel/121915.npy,20367,Negritage,18489,Guetto Roots Of Dub (Vol.1),30.002721088435376
+121922,International,5,../data/local/processed_mel/121922.npy,20367,Negritage,18489,Guetto Roots Of Dub (Vol.1),30.002721088435376
+121926,International,5,../data/local/processed_mel/121926.npy,20367,Negritage,18489,Guetto Roots Of Dub (Vol.1),29.976598639455784
+121929,International,5,../data/local/processed_mel/121929.npy,20367,Negritage,18489,Guetto Roots Of Dub (Vol.1),29.976598639455784
+121930,International,5,../data/local/processed_mel/121930.npy,20367,Negritage,18489,Guetto Roots Of Dub (Vol.1),29.976598639455784
+121998,Experimental,1,../data/local/processed_mel/121998.npy,20387,Beauty School,18495,A Tribute to the Passing Of Christopher Lee & Ornette Coleman,30.002721088435376
+122106,Experimental,1,../data/local/processed_mel/122106.npy,20418,Electroblurgen,18503,"The Smiley Frowny Spider: Introducing Electroblurgen, who are happy and sad",30.002721088435376
+122107,Experimental,1,../data/local/processed_mel/122107.npy,20418,Electroblurgen,18503,"The Smiley Frowny Spider: Introducing Electroblurgen, who are happy and sad",30.002721088435376
+122143,Experimental,1,../data/local/processed_mel/122143.npy,18067,Anthony Donovan & Jaan Patterson,18507,Ergo Protagonists,29.976598639455784
+122155,Experimental,1,../data/local/processed_mel/122155.npy,20435,John Hyatt & Jaan Patterson,18507,Ergo Protagonists,29.976598639455784
+122168,Experimental,1,../data/local/processed_mel/122168.npy,15939,Jeremy Gluck & Jaan Patterson,18507,Ergo Protagonists,30.002721088435376
+122510,Instrumental,4,../data/local/processed_mel/122510.npy,19472,Squire Tuck,18539,Solitude,29.976598639455784
+122511,Instrumental,4,../data/local/processed_mel/122511.npy,19472,Squire Tuck,18539,Solitude,30.002721088435376
+124184,Rock,7,../data/local/processed_mel/124184.npy,20733,Bloodgod,18777,Pseudologia Phantastica,29.976598639455784
+124185,Rock,7,../data/local/processed_mel/124185.npy,20733,Bloodgod,18777,Pseudologia Phantastica,30.002721088435376
+124186,Rock,7,../data/local/processed_mel/124186.npy,20733,Bloodgod,18777,Pseudologia Phantastica,30.002721088435376
+124391,Rock,7,../data/local/processed_mel/124391.npy,20763,Radius System,18799,Escape / Restart,30.002721088435376
+124392,Rock,7,../data/local/processed_mel/124392.npy,20763,Radius System,18799,Escape / Restart,30.002721088435376
+124393,Rock,7,../data/local/processed_mel/124393.npy,20763,Radius System,18799,Escape / Restart,29.976598639455784
+124394,Rock,7,../data/local/processed_mel/124394.npy,20763,Radius System,18799,Escape / Restart,30.002721088435376
+126240,Instrumental,4,../data/local/processed_mel/126240.npy,19472,Squire Tuck,19081,Songs From Another Time,29.976598639455784
+126241,Instrumental,4,../data/local/processed_mel/126241.npy,19472,Squire Tuck,19081,Songs From Another Time,29.976598639455784
+126242,Instrumental,4,../data/local/processed_mel/126242.npy,19472,Squire Tuck,19081,Songs From Another Time,30.002721088435376
+126243,Instrumental,4,../data/local/processed_mel/126243.npy,19472,Squire Tuck,19081,Songs From Another Time,30.002721088435376
+126507,Experimental,1,../data/local/processed_mel/126507.npy,16340,CROCODILE TEARS,19119,An Appreciation,29.976598639455784
+127180,Pop,6,../data/local/processed_mel/127180.npy,15469,Wintermitts,19225,Oceans,30.002721088435376
+127181,Pop,6,../data/local/processed_mel/127181.npy,15469,Wintermitts,19225,Oceans,29.976598639455784
+127182,Pop,6,../data/local/processed_mel/127182.npy,15469,Wintermitts,19225,Oceans,29.976598639455784
+127183,Pop,6,../data/local/processed_mel/127183.npy,15469,Wintermitts,19225,Oceans,30.002721088435376
+127184,Pop,6,../data/local/processed_mel/127184.npy,15469,Wintermitts,19225,Oceans,29.976598639455784
+127185,Pop,6,../data/local/processed_mel/127185.npy,15469,Wintermitts,19225,Oceans,29.976598639455784
+127186,Pop,6,../data/local/processed_mel/127186.npy,15469,Wintermitts,19225,Oceans,30.002721088435376
+127187,Pop,6,../data/local/processed_mel/127187.npy,15469,Wintermitts,19225,Oceans,29.976598639455784
+127188,Pop,6,../data/local/processed_mel/127188.npy,15469,Wintermitts,19225,Oceans,30.002721088435376
+127189,Pop,6,../data/local/processed_mel/127189.npy,15469,Wintermitts,19225,Oceans,29.976598639455784
+127330,Rock,7,../data/local/processed_mel/127330.npy,21084,Sunshine and the Rain,19249,"Live on WFMU with Gaylord Fields, 11/1/2015",30.002721088435376
+127331,Instrumental,4,../data/local/processed_mel/127331.npy,19472,Squire Tuck,19250,Alone Again,30.002721088435376
+127484,Experimental,1,../data/local/processed_mel/127484.npy,21100,Hyaena Fierling & MUTATE,19274,Emissaries,30.002721088435376
+127519,Instrumental,4,../data/local/processed_mel/127519.npy,19472,Squire Tuck,19282,Ambient Airwaves,30.002721088435376
+127520,Instrumental,4,../data/local/processed_mel/127520.npy,19472,Squire Tuck,19282,Ambient Airwaves,29.976598639455784
+127559,Rock,7,../data/local/processed_mel/127559.npy,21107,Droopies,19286,Droopies,29.976598639455784
+128441,Hip-Hop,3,../data/local/processed_mel/128441.npy,16031,The Impossebulls,19381,netBloc Vol. 47: Grooves For The Sentient,29.976598639455784
+128878,Experimental,1,../data/local/processed_mel/128878.npy,19472,Squire Tuck,19435,A Festive Felicitations,29.976598639455784
+128879,Experimental,1,../data/local/processed_mel/128879.npy,19472,Squire Tuck,19435,A Festive Felicitations,29.976598639455784
+128880,Experimental,1,../data/local/processed_mel/128880.npy,19472,Squire Tuck,19435,A Festive Felicitations,30.002721088435376
+128881,Experimental,1,../data/local/processed_mel/128881.npy,19472,Squire Tuck,19435,A Festive Felicitations,30.002721088435376
+128882,Experimental,1,../data/local/processed_mel/128882.npy,19472,Squire Tuck,19435,A Festive Felicitations,29.976598639455784
+128885,Instrumental,4,../data/local/processed_mel/128885.npy,19472,Squire Tuck,19436,Jamstik Jams,30.002721088435376
+128886,Instrumental,4,../data/local/processed_mel/128886.npy,19472,Squire Tuck,19436,Jamstik Jams,30.002721088435376
+128887,Instrumental,4,../data/local/processed_mel/128887.npy,19472,Squire Tuck,19436,Jamstik Jams,29.976598639455784
+128888,Instrumental,4,../data/local/processed_mel/128888.npy,19472,Squire Tuck,19436,Jamstik Jams,29.976598639455784
+130752,Instrumental,4,../data/local/processed_mel/130752.npy,19472,Squire Tuck,19686,Song for the Chameleon,29.976598639455784
+131410,Experimental,1,../data/local/processed_mel/131410.npy,10184,Suburban Howl,19792,Suburban Howl,30.002721088435376
+131476,Instrumental,4,../data/local/processed_mel/131476.npy,19472,Squire Tuck,19799,Facing Facts About Growing Old,30.002721088435376
+131932,International,5,../data/local/processed_mel/131932.npy,21619,Edessa,19872,Live at Golden Festival 2016,29.976598639455784
+131933,International,5,../data/local/processed_mel/131933.npy,21619,Edessa,19872,Live at Golden Festival 2016,30.002721088435376
+131934,International,5,../data/local/processed_mel/131934.npy,21619,Edessa,19872,Live at Golden Festival 2016,30.002721088435376
+131935,International,5,../data/local/processed_mel/131935.npy,21619,Edessa,19872,Live at Golden Festival 2016,29.976598639455784
+131936,International,5,../data/local/processed_mel/131936.npy,21619,Edessa,19872,Live at Golden Festival 2016,30.002721088435376
+132117,Hip-Hop,3,../data/local/processed_mel/132117.npy,21644,Timezone LaFontaine,19900,netBloc Vol. 50: superSonic,29.976598639455784
+132171,Rock,7,../data/local/processed_mel/132171.npy,21655,Ulises Lima,19909,7,30.002721088435376
+132448,Electronic,0,../data/local/processed_mel/132448.npy,21691,Nihilore,19952,Misophonia,30.002721088435376
+133102,Instrumental,4,../data/local/processed_mel/133102.npy,19472,Squire Tuck,20029,Natural Groove,30.002721088435376
+133681,Instrumental,4,../data/local/processed_mel/133681.npy,19472,Squire Tuck,20084,Midnight Chillin',30.002721088435376
+133772,Rock,7,../data/local/processed_mel/133772.npy,19770,Hearse Pileup,20094,Make Money Make War,29.988979591836735
+134486,Pop,6,../data/local/processed_mel/134486.npy,19472,Squire Tuck,20106,Love&Heartache,30.002721088435376
+134790,Instrumental,4,../data/local/processed_mel/134790.npy,18834,Pianochocolate,20232,Blueberry,29.976598639455784
+134791,Instrumental,4,../data/local/processed_mel/134791.npy,18834,Pianochocolate,20232,Blueberry,30.002721088435376
+134792,Instrumental,4,../data/local/processed_mel/134792.npy,18834,Pianochocolate,20232,Blueberry,30.002721088435376
+134793,Instrumental,4,../data/local/processed_mel/134793.npy,18834,Pianochocolate,20232,Blueberry,30.002721088435376
+134794,Instrumental,4,../data/local/processed_mel/134794.npy,18834,Pianochocolate,20232,Blueberry,30.002721088435376
+134795,Instrumental,4,../data/local/processed_mel/134795.npy,18834,Pianochocolate,20232,Blueberry,30.002721088435376
+134796,Instrumental,4,../data/local/processed_mel/134796.npy,18834,Pianochocolate,20232,Blueberry,29.976598639455784
+134797,Instrumental,4,../data/local/processed_mel/134797.npy,18834,Pianochocolate,20232,Blueberry,29.976598639455784
+136054,Rock,7,../data/local/processed_mel/136054.npy,22017,Sinapsi,20438,Come Realtà,29.976598639455784
+137605,Rock,7,../data/local/processed_mel/137605.npy,21084,Sunshine and the Rain,20668,"Live at Monty Hall, 2/20/2016",29.988979591836735
+137624,Rock,7,../data/local/processed_mel/137624.npy,21476,The Sun Through A Telescope,20671,I Die Smiling,30.002721088435376
+137627,Rock,7,../data/local/processed_mel/137627.npy,21476,The Sun Through A Telescope,20671,I Die Smiling,29.976598639455784
+137630,Rock,7,../data/local/processed_mel/137630.npy,21476,The Sun Through A Telescope,20671,I Die Smiling,30.002721088435376
+137631,Rock,7,../data/local/processed_mel/137631.npy,21476,The Sun Through A Telescope,20671,I Die Smiling,30.002721088435376
+137632,Rock,7,../data/local/processed_mel/137632.npy,21476,The Sun Through A Telescope,20671,I Die Smiling,30.002721088435376
+138018,Instrumental,4,../data/local/processed_mel/138018.npy,22217,Christian Flanders,20743,Keepsake,30.002721088435376
+138019,Instrumental,4,../data/local/processed_mel/138019.npy,22217,Christian Flanders,20743,Keepsake,29.976598639455784
+138020,Instrumental,4,../data/local/processed_mel/138020.npy,22217,Christian Flanders,20743,Keepsake,30.002721088435376
+138021,Instrumental,4,../data/local/processed_mel/138021.npy,22217,Christian Flanders,20743,Keepsake,30.002721088435376
+138022,Instrumental,4,../data/local/processed_mel/138022.npy,22217,Christian Flanders,20743,Keepsake,30.002721088435376
+138023,Instrumental,4,../data/local/processed_mel/138023.npy,22217,Christian Flanders,20743,Keepsake,30.002721088435376
+138024,Instrumental,4,../data/local/processed_mel/138024.npy,22217,Christian Flanders,20743,Keepsake,30.002721088435376
+138025,Instrumental,4,../data/local/processed_mel/138025.npy,22217,Christian Flanders,20743,Keepsake,29.976598639455784
+138026,Instrumental,4,../data/local/processed_mel/138026.npy,22217,Christian Flanders,20743,Keepsake,30.002721088435376
+139933,Electronic,0,../data/local/processed_mel/139933.npy,22400,Resonancedj & Giulio Maddaloni,21060,Rotated ( EP ),29.976598639455784
+139934,Electronic,0,../data/local/processed_mel/139934.npy,22400,Resonancedj & Giulio Maddaloni,21060,Rotated ( EP ),29.976598639455784
+139935,Electronic,0,../data/local/processed_mel/139935.npy,22400,Resonancedj & Giulio Maddaloni,21060,Rotated ( EP ),29.976598639455784
+139936,Electronic,0,../data/local/processed_mel/139936.npy,22400,Resonancedj & Giulio Maddaloni,21060,Rotated ( EP ),30.002721088435376
+139937,Electronic,0,../data/local/processed_mel/139937.npy,22400,Resonancedj & Giulio Maddaloni,21060,Rotated ( EP ),29.976598639455784
+140043,Rock,7,../data/local/processed_mel/140043.npy,22409,The Blessed Cassettes,21079,Errors and Omissions,30.002721088435376
+140609,Hip-Hop,3,../data/local/processed_mel/140609.npy,16031,The Impossebulls,21153,The Devils You Know,30.002721088435376
+140620,Hip-Hop,3,../data/local/processed_mel/140620.npy,16031,The Impossebulls,21154,Bad Cop,30.002721088435376
+140621,Hip-Hop,3,../data/local/processed_mel/140621.npy,16031,The Impossebulls,21155,Back To It b/w 5 x 5,29.976598639455784
+140623,Hip-Hop,3,../data/local/processed_mel/140623.npy,16031,The Impossebulls,21155,Back To It b/w 5 x 5,29.976598639455784
+140625,Hip-Hop,3,../data/local/processed_mel/140625.npy,16031,The Impossebulls,21155,Back To It b/w 5 x 5,30.002721088435376
+140626,Hip-Hop,3,../data/local/processed_mel/140626.npy,16031,The Impossebulls,21155,Back To It b/w 5 x 5,30.002721088435376
+140922,Electronic,0,../data/local/processed_mel/140922.npy,21691,Nihilore,21199,The Hermeneutic Circle,29.976598639455784
+140923,Electronic,0,../data/local/processed_mel/140923.npy,21691,Nihilore,21199,The Hermeneutic Circle,30.002721088435376
+140924,Electronic,0,../data/local/processed_mel/140924.npy,21691,Nihilore,21199,The Hermeneutic Circle,29.976598639455784
+140925,Electronic,0,../data/local/processed_mel/140925.npy,21691,Nihilore,21199,The Hermeneutic Circle,30.002721088435376
+140926,Electronic,0,../data/local/processed_mel/140926.npy,21691,Nihilore,21199,The Hermeneutic Circle,29.976598639455784
+140933,Electronic,0,../data/local/processed_mel/140933.npy,21691,Nihilore,21199,The Hermeneutic Circle,29.976598639455784
+140934,Electronic,0,../data/local/processed_mel/140934.npy,21691,Nihilore,21199,The Hermeneutic Circle,29.976598639455784
+141616,Electronic,0,../data/local/processed_mel/141616.npy,13437,Barbarix,21286,The Mystics,29.976598639455784
+141617,Electronic,0,../data/local/processed_mel/141617.npy,13437,Barbarix,21286,The Mystics,30.002721088435376
+141618,Electronic,0,../data/local/processed_mel/141618.npy,13437,Barbarix,21286,The Mystics,29.976598639455784
+141619,Electronic,0,../data/local/processed_mel/141619.npy,13437,Barbarix,21286,The Mystics,30.002721088435376
+141877,Rock,7,../data/local/processed_mel/141877.npy,22584,Nocturnal Mayhem,21296,NM,29.976598639455784
+141878,Rock,7,../data/local/processed_mel/141878.npy,22584,Nocturnal Mayhem,21296,NM,29.976598639455784
+142358,Hip-Hop,3,../data/local/processed_mel/142358.npy,16031,The Impossebulls,21372,Five By Five I: Wrath,30.002721088435376
+142359,Hip-Hop,3,../data/local/processed_mel/142359.npy,16031,The Impossebulls,21372,Five By Five I: Wrath,29.976598639455784
+142360,Hip-Hop,3,../data/local/processed_mel/142360.npy,16031,The Impossebulls,21372,Five By Five I: Wrath,29.976598639455784
+142361,Hip-Hop,3,../data/local/processed_mel/142361.npy,16031,The Impossebulls,21372,Five By Five I: Wrath,30.002721088435376
+142362,Hip-Hop,3,../data/local/processed_mel/142362.npy,16031,The Impossebulls,21372,Five By Five I: Wrath,29.976598639455784
+142533,International,5,../data/local/processed_mel/142533.npy,22680,Terratombats,21400,Bestial,29.976598639455784
+142534,International,5,../data/local/processed_mel/142534.npy,22680,Terratombats,21400,Bestial,30.002721088435376
+142535,International,5,../data/local/processed_mel/142535.npy,22680,Terratombats,21400,Bestial,29.976598639455784
+142536,International,5,../data/local/processed_mel/142536.npy,22680,Terratombats,21400,Bestial,30.002721088435376
+142537,International,5,../data/local/processed_mel/142537.npy,22680,Terratombats,21400,Bestial,30.002721088435376
+142538,International,5,../data/local/processed_mel/142538.npy,22680,Terratombats,21400,Bestial,29.976598639455784
+142539,International,5,../data/local/processed_mel/142539.npy,22680,Terratombats,21400,Bestial,30.002721088435376
+144212,Hip-Hop,3,../data/local/processed_mel/144212.npy,16031,The Impossebulls,21564,Five By Five II: Sloth,30.002721088435376
+144213,Hip-Hop,3,../data/local/processed_mel/144213.npy,16031,The Impossebulls,21564,Five By Five II: Sloth,30.002721088435376
+144214,Hip-Hop,3,../data/local/processed_mel/144214.npy,16031,The Impossebulls,21564,Five By Five II: Sloth,29.976598639455784
+144215,Hip-Hop,3,../data/local/processed_mel/144215.npy,16031,The Impossebulls,21564,Five By Five II: Sloth,29.976598639455784
+144216,Hip-Hop,3,../data/local/processed_mel/144216.npy,16031,The Impossebulls,21564,Five By Five II: Sloth,29.976598639455784
+144592,Electronic,0,../data/local/processed_mel/144592.npy,23004,Trillion Catz,21601,The Big Numbers,29.976598639455784
+145067,Rock,7,../data/local/processed_mel/145067.npy,23115,TxSxBx,21653,Ruagne,30.002721088435376
+145068,Rock,7,../data/local/processed_mel/145068.npy,23115,TxSxBx,21653,Ruagne,29.976598639455784
+145457,Instrumental,4,../data/local/processed_mel/145457.npy,19472,Squire Tuck,21733,The Pleasure of Discovery,30.002721088435376
+145458,Instrumental,4,../data/local/processed_mel/145458.npy,19472,Squire Tuck,21733,The Pleasure of Discovery,30.002721088435376
+145475,Instrumental,4,../data/local/processed_mel/145475.npy,19472,Squire Tuck,21737,Happy Halloween,30.002721088435376
+145476,Instrumental,4,../data/local/processed_mel/145476.npy,19472,Squire Tuck,21737,Happy Halloween,29.976598639455784
+145477,Instrumental,4,../data/local/processed_mel/145477.npy,19472,Squire Tuck,21737,Happy Halloween,30.002721088435376
+145747,Hip-Hop,3,../data/local/processed_mel/145747.npy,16031,The Impossebulls,21776,Five By Five III: Greed,29.976598639455784
+145748,Hip-Hop,3,../data/local/processed_mel/145748.npy,16031,The Impossebulls,21776,Five By Five III: Greed,30.002721088435376
+145749,Hip-Hop,3,../data/local/processed_mel/145749.npy,16031,The Impossebulls,21776,Five By Five III: Greed,29.976598639455784
+145750,Hip-Hop,3,../data/local/processed_mel/145750.npy,16031,The Impossebulls,21776,Five By Five III: Greed,29.976598639455784
+145751,Hip-Hop,3,../data/local/processed_mel/145751.npy,16031,The Impossebulls,21776,Five By Five III: Greed,30.002721088435376
+145762,Instrumental,4,../data/local/processed_mel/145762.npy,19472,Squire Tuck,21763,"Holding On Until The Cold, Cold Morn",30.002721088435376
+145777,Instrumental,4,../data/local/processed_mel/145777.npy,19472,Squire Tuck,21780,Heaven Beyond the Trees,29.976598639455784
+145887,Instrumental,4,../data/local/processed_mel/145887.npy,19472,Squire Tuck,21803,Facing Inwards,29.976598639455784
+147020,Hip-Hop,3,../data/local/processed_mel/147020.npy,16031,The Impossebulls,21925,Five By Five IV: Gluttony,29.976598639455784
+147021,Hip-Hop,3,../data/local/processed_mel/147021.npy,16031,The Impossebulls,21925,Five By Five IV: Gluttony,29.976598639455784
+147022,Hip-Hop,3,../data/local/processed_mel/147022.npy,16031,The Impossebulls,21925,Five By Five IV: Gluttony,29.976598639455784
+147023,Hip-Hop,3,../data/local/processed_mel/147023.npy,16031,The Impossebulls,21925,Five By Five IV: Gluttony,30.002721088435376
+147024,Hip-Hop,3,../data/local/processed_mel/147024.npy,16031,The Impossebulls,21925,Five By Five IV: Gluttony,30.002721088435376
+147261,Hip-Hop,3,../data/local/processed_mel/147261.npy,23411,Lozo Musico,21964,Depravity,29.976598639455784
+148002,Instrumental,4,../data/local/processed_mel/148002.npy,19472,Squire Tuck,22060,Little Peace at Christmas,29.976598639455784
+148028,Hip-Hop,3,../data/local/processed_mel/148028.npy,23527,BoyHoodBuchi,22069,BoyHood Mix,29.976598639455784
+148031,Hip-Hop,3,../data/local/processed_mel/148031.npy,23527,BoyHoodBuchi,22069,BoyHood Mix,29.976598639455784
+148032,Hip-Hop,3,../data/local/processed_mel/148032.npy,23527,BoyHoodBuchi,22069,BoyHood Mix,29.976598639455784
+148082,Experimental,1,../data/local/processed_mel/148082.npy,23532,Queen Elephantine,22078,"Live at WFMU on What Was Music? With Marcel M, 11/16/2016",30.002721088435376
+148430,International,5,../data/local/processed_mel/148430.npy,23586,Poder Fantasma,22128,Supersecreto Anplag,30.002721088435376
+148606,Pop,6,../data/local/processed_mel/148606.npy,23605,Red Crickets,22158,II,30.002721088435376
+148607,Pop,6,../data/local/processed_mel/148607.npy,23605,Red Crickets,22158,II,29.976598639455784
+148608,Pop,6,../data/local/processed_mel/148608.npy,23605,Red Crickets,22158,II,30.002721088435376
+148609,Pop,6,../data/local/processed_mel/148609.npy,23605,Red Crickets,22158,II,30.002721088435376
+148610,Pop,6,../data/local/processed_mel/148610.npy,23605,Red Crickets,22158,II,30.002721088435376
+148611,Pop,6,../data/local/processed_mel/148611.npy,23605,Red Crickets,22158,II,29.976598639455784
+148612,Pop,6,../data/local/processed_mel/148612.npy,23605,Red Crickets,22158,II,30.002721088435376
+148613,Pop,6,../data/local/processed_mel/148613.npy,23605,Red Crickets,22158,II,30.002721088435376
+149623,Hip-Hop,3,../data/local/processed_mel/149623.npy,23687,Abdu Ali,22310,"Live at WFMU for Champ Sound with DJ Guy, 6/30/2016",29.988979591836735
+149625,Hip-Hop,3,../data/local/processed_mel/149625.npy,23687,Abdu Ali,22310,"Live at WFMU for Champ Sound with DJ Guy, 6/30/2016",29.988979591836735
+149626,Hip-Hop,3,../data/local/processed_mel/149626.npy,23687,Abdu Ali,22310,"Live at WFMU for Champ Sound with DJ Guy, 6/30/2016",29.988979591836735
+150015,Pop,6,../data/local/processed_mel/150015.npy,23748,Urs Graf Consort,22374,Vivéré,30.002721088435376
+150017,Pop,6,../data/local/processed_mel/150017.npy,23748,Urs Graf Consort,22374,Vivéré,30.002721088435376
+150018,Pop,6,../data/local/processed_mel/150018.npy,23748,Urs Graf Consort,22374,Vivéré,30.002721088435376
+150287,Hip-Hop,3,../data/local/processed_mel/150287.npy,16031,The Impossebulls,22410,Five By Five V: Lust,30.002721088435376
+150288,Hip-Hop,3,../data/local/processed_mel/150288.npy,16031,The Impossebulls,22410,Five By Five V: Lust,30.002721088435376
+154303,Hip-Hop,3,../data/local/processed_mel/154303.npy,23208,Fleslit,22780,Journey,29.976598639455784
+154305,Hip-Hop,3,../data/local/processed_mel/154305.npy,23208,Fleslit,22780,Journey,30.002721088435376
+154306,Hip-Hop,3,../data/local/processed_mel/154306.npy,23208,Fleslit,22780,Journey,30.002721088435376
+154307,Hip-Hop,3,../data/local/processed_mel/154307.npy,23208,Fleslit,22780,Journey,29.976598639455784
+154308,Hip-Hop,3,../data/local/processed_mel/154308.npy,23208,Fleslit,22780,Journey,29.976598639455784
+154309,Hip-Hop,3,../data/local/processed_mel/154309.npy,23208,Fleslit,22780,Journey,29.976598639455784
