@@ -14,7 +14,7 @@ data/local/
 build/
 develop-eggs/
 dist/
-downloads/
+downloads/d
 eggs/
 .eggs/
 lib/
